@@ -1,0 +1,486 @@
+{
+  "questions": [
+    {
+      "id": "almas-01",
+      "book": "almas",
+      "topic": "Apresentação da personagem",
+      "context": "\"Na caleche vinha um cavalheiro, nem feio nem bonito, nem gordo nem magro, nem velho nem novo.\"",
+      "page": "p. 6",
+      "stem": "A sequência de características construídas com a repetição de \"nem\" contribui para",
+      "options": [
+        "definir com precisão a aparência do viajante e apresentar sua moderação física como garantia inicial de uma conduta moral equilibrada",
+        "situar o viajante entre características opostas e dificultar sua individualização, preservando a indefinição que acompanha sua entrada na narrativa",
+        "reproduzir a avaliação dos moradores e demonstrar que a aparência do viajante já despertava uma desconfiança compartilhada por toda a cidade",
+        "contrapor a aparência comum do viajante à excepcionalidade de suas intenções, reveladas pelo narrador antes de qualquer contato com os moradores",
+        "apagar as diferenças entre o viajante e os demais proprietários, estabelecendo que todos desempenharão funções equivalentes no desenvolvimento da história"
+      ],
+      "answer": 1,
+      "explanation": "A repetição negativa recusa traços extremos sem fornecer características marcantes. O leitor recebe uma apresentação pouco individualizadora, não uma confirmação do caráter ou das intenções do recém-chegado."
+    },
+    {
+      "id": "almas-02",
+      "book": "almas",
+      "topic": "Deslocamento da atenção",
+      "context": "\"— Repara nessa roda — disse um deles. — Em caso de necessidade, chegaria a Moscovo?\"",
+      "page": "p. 6",
+      "stem": "A conversa dos dois homens do povo sobre a roda da caleche produz o efeito de",
+      "options": [
+        "antecipar o itinerário efetivo do viajante, oferecendo ao leitor uma informação geográfica que a personagem ainda procura ocultar dos funcionários",
+        "comprovar a precariedade da carruagem, permitindo que os moradores deduzam corretamente a situação financeira de seu proprietário",
+        "estabelecer um conflito entre o viajante e os camponeses, que questionam sua posição social por meio de uma crítica indireta ao veículo",
+        "desviar a atenção da identidade do recém-chegado para um detalhe material, prolongando a apresentação pouco esclarecedora da personagem",
+        "reproduzir a admiração popular pelo viajante, cuja importância é reconhecida na capacidade atribuída à carruagem de alcançar cidades distantes"
+      ],
+      "answer": 3,
+      "explanation": "Os observadores comentam a resistência da roda, não quem chega ou por quê. A expectativa de uma apresentação esclarecedora é desviada para uma especulação cotidiana sobre o veículo."
+    },
+    {
+      "id": "almas-03",
+      "book": "almas",
+      "topic": "Descrição grotesca",
+      "context": "\"carochas gordas como ameixas\"",
+      "page": "p. 7",
+      "stem": "Na descrição da hospedaria, a comparação dos insetos com ameixas contribui para",
+      "options": [
+        "acentuar materialmente a sujeira por uma imagem desproporcional e familiar, aproximando a impressão desagradável de um efeito cômico e grotesco",
+        "atenuar a precariedade do alojamento por uma imagem de abundância, sugerindo que o conforto oferecido compensa os problemas de conservação",
+        "reproduzir uma alucinação do viajante diante da hospedaria, subordinando a descrição à perturbação psicológica provocada pela chegada",
+        "singularizar a hospedaria como uma exceção local, afastando a descrição de qualquer comentário mais amplo sobre os costumes das capitais de distrito",
+        "confirmar a neutralidade documental do narrador, que registra a dimensão exata dos insetos sem interferir na avaliação do ambiente descrito"
+      ],
+      "answer": 0,
+      "explanation": "A comparação dá relevo visual ao tamanho dos insetos e à degradação do espaço. O detalhe corporal exagerado transforma a descrição em uma construção grotesca, não em um inventário neutro."
+    },
+    {
+      "id": "almas-04",
+      "book": "almas",
+      "topic": "Intervenção do narrador",
+      "context": "\"Não as tendo nunca usado, ignoro em absoluto quem toma esse cuidado em relação aos solteiros.\"",
+      "page": "p. 9",
+      "stem": "O comentário sobre as mantas de lã permite reconhecer que o narrador",
+      "options": [
+        "abandona a narração em terceira pessoa e passa a revelar que é o próprio viajante quem reconstrói retrospectivamente sua chegada à hospedaria",
+        "atribui ao criado a interpretação do vestuário do hóspede, restringindo a descrição ao conhecimento disponível a essa personagem secundária",
+        "declara desconhecer a identidade de todas as personagens, tornando inviável distinguir informações narrativas de conjecturas sem fundamento",
+        "suspende a avaliação dos costumes e apresenta uma explicação objetiva da produção doméstica dos agasalhos usados pelos viajantes russos",
+        "interrompe a descrição com uma observação pessoal e humorística, tornando perceptível sua presença na condução e no comentário do relato"
+      ],
+      "answer": 4,
+      "explanation": "O narrador comenta sua própria experiência e dirige a atenção para uma curiosidade lateral. Sua intervenção não o transforma em Tchichikov: evidencia uma voz narrativa que participa discursivamente do relato."
+    },
+    {
+      "id": "almas-05",
+      "book": "almas",
+      "topic": "Seleção de informações",
+      "context": "\"Inteirou-se com meticulosidade a respeito dos nomes do governador, do presidente do tribunal, do procurador, de todos os altos funcionários.\"",
+      "page": "p. 10",
+      "stem": "Considerando as visitas realizadas posteriormente por Tchichikov, a busca pelos nomes das autoridades sugere",
+      "options": [
+        "um interesse predominantemente cultural pela história administrativa da cidade, independente das relações pessoais que ele estabelecerá com seus dirigentes",
+        "uma exigência formal da hospedaria, que condiciona a permanência dos proprietários rurais ao reconhecimento prévio dos funcionários municipais",
+        "um levantamento cuidadoso das pessoas que ocupam posições de poder, compatível com a aproximação social que ele passará a desenvolver",
+        "uma investigação pública sobre irregularidades locais, cuja finalidade é apresentada aos moradores antes dos primeiros convites recebidos pelo viajante",
+        "uma curiosidade satisfeita no primeiro contato com o criado, sem ligação perceptível com os comportamentos adotados durante sua circulação pela cidade"
+      ],
+      "answer": 2,
+      "explanation": "A meticulosidade da coleta se articula às visitas às autoridades. O capítulo permite perceber preparação e interesse pelas relações de poder, mas não confirmar uma finalidade secreta específica."
+    },
+    {
+      "id": "almas-06",
+      "book": "almas",
+      "topic": "Investigação dos proprietários",
+      "context": "\"quantos servos tinham, a que distância moravam da cidade, se vinham a ela com frequência e qual era o seu feitio.\"",
+      "page": "p. 10",
+      "stem": "O conjunto das perguntas sobre os proprietários rurais permite interpretar que Tchichikov",
+      "options": [
+        "recolhe dados econômicos, espaciais e comportamentais que podem orientar seus contatos, embora a finalidade dessa preparação permaneça desconhecida",
+        "demonstra preocupação com as condições de vida dos servos, preparando uma denúncia das relações de dependência mantidas pelos proprietários locais",
+        "avalia apenas a distância entre as propriedades, deixando as características pessoais dos possíveis anfitriões em posição secundária na conversa",
+        "procura confirmar a superioridade moral dos moradores rurais, opondo sua hospitalidade à conduta das autoridades que já conhecia pessoalmente",
+        "expõe ao criado a natureza dos negócios que pretende realizar, tornando explícita a relação entre a quantidade de servos e o objetivo de sua viagem"
+      ],
+      "answer": 0,
+      "explanation": "As perguntas articulam patrimônio, localização, frequência de deslocamento e temperamento. Esse levantamento pode facilitar a aproximação, mas não esclarece ainda o motivo último do interesse."
+    },
+    {
+      "id": "almas-07",
+      "book": "almas",
+      "topic": "Curiosidade e suspeita",
+      "context": "\"não teria sofrido alguma epidemia, febre infeciosa, varíola ou outra doença do mesmo género? Todos os dados eram pedidos com tanta insistência, que revelaram alguma coisa mais que simples curiosidade.\"",
+      "page": "p. 10",
+      "stem": "A observação do narrador sobre a insistência nas perguntas modifica a leitura da conversa porque",
+      "options": [
+        "confirma a condição médica do viajante, explicando por que as perguntas sanitárias recebem prioridade sobre os contatos com os funcionários locais",
+        "reduz a coleta de informações a uma ansiedade pessoal, afastando qualquer relação entre as doenças mencionadas e as demais perguntas feitas ao criado",
+        "revela ao leitor o plano completo do recém-chegado, eliminando a distância entre suas intenções e aquilo que as outras personagens conseguem conhecer",
+        "leva a reavaliar as perguntas antes tratadas como ociosas, sugerindo uma busca orientada sem transformar a suspeita em conhecimento de seu objetivo",
+        "atribui ao criado a responsabilidade pela desconfiança, mostrando que o funcionário da hospedaria já havia identificado a verdadeira intenção do hóspede"
+      ],
+      "answer": 3,
+      "explanation": "A insistência enfraquece o enquadramento inicial da conversa como mera futilidade. O narrador oferece um indício de propósito, não a revelação desse propósito."
+    },
+    {
+      "id": "almas-08",
+      "book": "almas",
+      "topic": "Ironia e imagem pública",
+      "context": "\"meia dúzia de árvores raquíticas, amparadas por estacas pintadas de verde\" [...] \"um jardim, rico em árvores copadas e frondosas\"",
+      "page": "p. 12",
+      "stem": "O contraste entre a descrição do parque e a notícia de sua inauguração evidencia",
+      "options": [
+        "a transformação efetiva do espaço urbano, que passa da precariedade inicial à abundância graças às intervenções posteriores da administração municipal",
+        "o embelezamento discursivo de uma realização precária, permitindo ao leitor perceber a distância entre o espaço observado e o elogio público da administração",
+        "a oposição entre o olhar pessimista de Tchichikov e a avaliação mais objetiva do jornal, cuja descrição corrige as limitações do primeiro observador",
+        "a coexistência de dois jardins diferentes, um destinado ao uso cotidiano dos moradores e outro reservado às cerimônias das autoridades municipais",
+        "a valorização da linguagem poética da imprensa, que supera a descrição material do espaço sem produzir qualquer consequência para a imagem dos governantes"
+      ],
+      "answer": 1,
+      "explanation": "O mesmo espaço recebe caracterizações incompatíveis: árvores frágeis tornam-se copadas no discurso jornalístico. Essa discrepância sustenta a ironia dirigida à autopromoção administrativa."
+    },
+    {
+      "id": "almas-09",
+      "book": "almas",
+      "topic": "Contraste e adulação",
+      "context": "\"os caminhos eram suaves como terciopelo e os ministros que nomeavam tais funcionários mereciam os maiores elogios.\"",
+      "page": "p. 14",
+      "stem": "Considerado ao lado da descrição anterior do mau empedrado, o elogio dos caminhos revela",
+      "options": [
+        "a correção de uma impressão inicial equivocada, pois a conversa com o governador permite ao viajante avaliar tecnicamente as melhorias realizadas na província",
+        "a diferença objetiva entre a conservação das ruas e a das estradas, distinção que o narrador apresenta como fundamento da sinceridade do elogio",
+        "a adesão do narrador ao entusiasmo do viajante, cuja linguagem figurada confirma a excelência administrativa reconhecida por todos os moradores",
+        "a incapacidade do viajante de perceber as condições materiais da cidade, que o impede de reconhecer os problemas evidentes aos demais visitantes",
+        "a adequação interessada da fala ao destinatário poderoso, cuja administração é valorizada por um discurso que o leitor pode confrontar com a precariedade descrita"
+      ],
+      "answer": 4,
+      "explanation": "O narrador já registrara que o empedrado era ruim e qualifica a atitude de Tchichikov como adulação. O leitor percebe a conveniência do elogio, em vez de tomá-lo como avaliação imparcial."
+    },
+    {
+      "id": "almas-10",
+      "book": "almas",
+      "topic": "Hierarquia e cortesia",
+      "context": "\"Enganou-se propositadamente, dando duas vezes Excelência ao vice-governador e ao presidente do tribunal.\"",
+      "page": "p. 15",
+      "stem": "A combinação entre o aparente engano e a indicação de que ele foi proposital permite reconhecer",
+      "options": [
+        "a dificuldade do recém-chegado em compreender os títulos locais, corrigida pelos funcionários antes que a conversa pudesse resultar em convites sociais",
+        "uma crítica direta do viajante às hierarquias administrativas, realizada por meio de um tratamento que expõe publicamente a insignificância dos cargos",
+        "o emprego calculado de um tratamento superior ao devido, capaz de lisonjear os interlocutores e favorecer a acolhida do recém-chegado",
+        "um protocolo obrigatório para visitantes de outras províncias, que devem elevar os títulos dos anfitriões para demonstrar respeito à administração local",
+        "a recusa do narrador em avaliar a conduta da personagem, deixando indeterminada a relação entre a escolha do tratamento e seus efeitos sobre os funcionários"
+      ],
+      "answer": 2,
+      "explanation": "A palavra 'propositadamente' revela o cálculo sob a aparência do erro. A valorização simbólica dos funcionários integra a habilidade de Tchichikov para conquistar recepção favorável."
+    },
+    {
+      "id": "almas-11",
+      "book": "almas",
+      "topic": "Autorretrato e verificabilidade",
+      "context": "\"O viajante só com extrema modéstia falava de si-próprio, empregando lugares comuns e dando às suas frases um tom livresco.\"",
+      "page": "p. 15",
+      "stem": "A caracterização do relato pessoal de Tchichikov sugere que sua aparente modéstia",
+      "options": [
+        "coincide com a precisão de um depoimento verificável, que permite aos anfitriões confrontar sua carreira anterior com documentos apresentados durante as visitas",
+        "oferece uma imagem socialmente favorável sem esclarecer sua trajetória, preservando a assimetria entre o que ele descobre dos outros e o que revela de si",
+        "impede o estabelecimento de relações sociais duradouras, pois os funcionários interpretam as fórmulas literárias como uma recusa explícita de qualquer aproximação",
+        "expressa o julgamento moral definitivo do narrador, que confirma a sinceridade da personagem ao reproduzir as fórmulas empregadas na apresentação pessoal",
+        "reduz a distância entre leitor e moradores, já que todos recebem os mesmos elementos e chegam necessariamente à mesma conclusão sobre as intenções do visitante"
+      ],
+      "answer": 1,
+      "explanation": "Lugares-comuns e tom livresco podem construir uma impressão sem fornecer fatos específicos. O comentário do narrador convida o leitor a distinguir a versão apresentada de uma biografia comprovada."
+    },
+    {
+      "id": "almas-12",
+      "book": "almas",
+      "topic": "Construção da própria imagem",
+      "context": "\"empregado público, a sua retidão havia-lhe granjeado muitos inimigos, alguns dos quais tinham até chegado a atentar contra a sua vida.\"",
+      "page": "p. 15",
+      "stem": "Na versão que Tchichikov oferece de seu passado, a referência aos inimigos funciona como forma de",
+      "options": [
+        "confessar falhas de sua atuação profissional, assumindo que as hostilidades surgiram de decisões injustas tomadas enquanto ocupava um cargo público",
+        "identificar os responsáveis por sua saída do serviço público, fornecendo nomes e circunstâncias que tornam a narrativa pessoal passível de confirmação",
+        "demonstrar que a cidade atual já lhe era hostil, associando os convites recebidos a uma tentativa dos funcionários de controlar seus movimentos",
+        "suspender qualquer avaliação de sua conduta anterior, apresentando as perseguições como acontecimentos sem relação com as qualidades que atribui a si mesmo",
+        "transformar as hostilidades alegadas em sinais de sua integridade, compondo um autorretrato favorável sem oferecer elementos suficientes para verificá-lo"
+      ],
+      "answer": 4,
+      "explanation": "Na apresentação da personagem, a perseguição aparece como consequência da retidão. Essa relação favorece sua imagem, mas é parte do relato que ele próprio oferece, não uma comprovação independente."
+    },
+    {
+      "id": "almas-13",
+      "book": "almas",
+      "topic": "Comparação satírica",
+      "context": "\"Os fraques negros revoluteavam aqui e ali, como moscas sobre o torrão de açúcar\"",
+      "page": "p. 16",
+      "stem": "A comparação dos convidados com moscas contribui para",
+      "options": [
+        "rebaixar a solenidade do sarau por uma aproximação com gestos de insetos, permitindo uma percepção cômica da movimentação e da exibição social",
+        "confirmar a distinção natural dos convidados por uma imagem de harmonia coletiva, na qual a circulação dos corpos representa a eficiência da administração",
+        "expressar exclusivamente a repulsa de Tchichikov pelos anfitriões, tornando explícita sua decisão de se afastar dos grupos presentes na festa",
+        "explicar a precariedade sanitária do palácio por meio de uma descrição literal, deslocando o interesse da sociabilidade para a presença de insetos no recinto",
+        "opor a humildade dos convidados ao luxo do governador, preservando o comportamento do grupo como referência moral diante da riqueza do ambiente"
+      ],
+      "answer": 0,
+      "explanation": "A comparação aproxima a elegância dos fraques da agitação de moscas. O rebaixamento cômico enfraquece o prestígio aparente da reunião e favorece uma leitura satírica da sociabilidade."
+    },
+    {
+      "id": "almas-14",
+      "book": "almas",
+      "topic": "Tipos sociais",
+      "context": "\"Nesta sociedade média — ai! — os gordos arranjam-se melhor que os magros quando se trata dos seus interesses.\"",
+      "page": "p. 18",
+      "stem": "Na oposição entre homens gordos e magros, a diferença corporal serve para",
+      "options": [
+        "formular um diagnóstico médico das condições de vida locais, explicando as diferenças de patrimônio pela saúde física dos funcionários",
+        "demonstrar uma equivalência moral entre todos os convidados, já que o contraste exterior perde qualquer importância quando se iniciam as partidas de cartas",
+        "desenvolver uma tipificação satírica de posições sociais, relacionando estabilidade nos cargos e acumulação de patrimônio aos interesses dos grupos descritos",
+        "atribuir aos funcionários magros a posse dos empregos mais seguros, enquanto os gordos representam a precariedade econômica encoberta pela aparência",
+        "distinguir categorias jurídicas formalmente adotadas pelo Estado, apresentando a compleição física como critério legal para a distribuição dos cargos públicos"
+      ],
+      "answer": 2,
+      "explanation": "A classificação ultrapassa a aparência: organiza uma reflexão irônica sobre empregos, patrimônio e segurança social. Não é uma lei biológica nem uma divisão administrativa literal."
+    },
+    {
+      "id": "almas-15",
+      "book": "almas",
+      "topic": "Observação e escolha",
+      "context": "\"Declaremos que, pouco mais ou menos, eram estes os raciocínios de Tchichikov ao contemplar a assembleia; e acabou por juntar-se aos gordos.\"",
+      "page": "p. 19",
+      "stem": "A aproximação de Tchichikov ao grupo dos gordos é apresentada como",
+      "options": [
+        "uma consequência exclusiva de sua aparência corporal, que determina automaticamente o lugar ocupado por cada convidado no espaço do sarau",
+        "um gesto de resistência às autoridades municipais, pois ele procura conviver com os presentes menos influentes e economicamente mais vulneráveis",
+        "uma escolha aleatória que contraria suas observações anteriores, mostrando a ausência de relação entre a análise da assembleia e seus contatos sociais",
+        "uma decisão relacionada à avaliação da posição e dos interesses dos presentes, articulando a observação do ambiente à seleção de suas relações",
+        "uma imposição do governador, que distribui os convidados em grupos e impede a personagem de circular livremente durante o encontro social"
+      ],
+      "answer": 3,
+      "explanation": "O narrador aproxima os comentários sobre os grupos dos raciocínios da personagem e, em seguida, registra sua escolha. A sequência sugere observação orientada, não simples afinidade física."
+    },
+    {
+      "id": "almas-16",
+      "book": "almas",
+      "topic": "Interesse econômico",
+      "context": "\"Não se interessou pelos nomes e apelidos dos proprietários senão depois de se ter informado do número de pessoas que tinham ao seu serviço e da sua situação financeira.\"",
+      "page": "p. 20",
+      "stem": "A ordem das informações buscadas sobre Manilov e Sobakevich indica que",
+      "options": [
+        "a afinidade afetiva precede qualquer consideração econômica, pois a curiosidade pelos bens surge apenas depois de estabelecida a amizade entre os três",
+        "a dimensão patrimonial ocupa posição prioritária em sua atenção, retomando um padrão de investigação cujo objetivo final o capítulo ainda não esclarece",
+        "os nomes dos proprietários são irrelevantes para a aproximação posterior, que permanece restrita a uma análise abstrata das propriedades rurais da região",
+        "o interesse pelo número de pessoas a serviço dos proprietários comprova uma intenção filantrópica, já comunicada às autoridades durante as visitas anteriores",
+        "o narrador confirma a finalidade completa da viagem, fazendo do patrimônio dos dois proprietários uma explicação suficiente para todos os atos da personagem"
+      ],
+      "answer": 1,
+      "explanation": "O número de pessoas a serviço dos proprietários e a situação financeira vêm antes mesmo dos nomes. Essa prioridade reforça a suspeita de um interesse dirigido, sem autorizar a revelação de acontecimentos posteriores."
+    },
+    {
+      "id": "almas-17",
+      "book": "almas",
+      "topic": "Urbanidade e persuasão",
+      "context": "\"Ele não dizia: «O senhor jogou tal ou tal carta...», mas «O senhor dignou-se jogar... Eu tive a honra de cortar o seu duque», etc.\"",
+      "page": "p. 20",
+      "stem": "A escolha das expressões usadas durante a discussão do jogo evidencia",
+      "options": [
+        "uma submissão ao resultado da partida que impede a personagem de discordar dos demais jogadores, mesmo quando procura explicar as próprias jogadas",
+        "um uso involuntário de fórmulas profissionais, cuja inadequação ao encontro informal compromete a aceitação de Tchichikov pelos demais convidados",
+        "uma crítica ostensiva à linguagem cerimoniosa dos funcionários, parodiada pela personagem com a finalidade declarada de constranger os interlocutores",
+        "uma indiferença às reações dos parceiros, já que a personagem conserva o mesmo vocabulário independentemente da situação e dos assuntos discutidos",
+        "uma maneira de sustentar sua participação sem ferir a consideração devida aos parceiros, convertendo a cortesia verbal em recurso de aceitação e persuasão"
+      ],
+      "answer": 4,
+      "explanation": "O contraste entre as duas formulações destaca uma urbanidade cuidadosamente mantida. A personagem participa da discussão enquanto preserva o prestígio dos interlocutores e favorece a própria acolhida."
+    },
+    {
+      "id": "almas-18",
+      "book": "almas",
+      "topic": "Adaptação da conversa",
+      "context": "\"Falava sempre com uma certa gravidade e empregava sempre o tom adequado.\"",
+      "page": "p. 22",
+      "stem": "Associada à variedade de assuntos sobre os quais Tchichikov conversa, a observação do narrador destaca",
+      "options": [
+        "a capacidade de ajustar sua participação aos interesses e às circunstâncias do encontro, construindo uma imagem de competência social junto a diferentes interlocutores",
+        "a comprovação de conhecimentos especializados em todos os campos mencionados, cuja profundidade é demonstrada por explicações técnicas reproduzidas integralmente",
+        "a manutenção de uma fala idêntica em todas as situações, que estabelece a sinceridade da personagem pela ausência de mudanças na expressão de suas opiniões",
+        "a recusa de assuntos cotidianos em favor de debates abstratos, pelos quais a personagem busca se distinguir da cultura limitada dos funcionários da província",
+        "a exposição progressiva de sua vida particular, pois a variedade dos temas fornece dados verificáveis sobre a origem e a trajetória profissional do recém-chegado"
+      ],
+      "answer": 0,
+      "explanation": "A enumeração de assuntos acompanha a ênfase no tom adequado. O capítulo evidencia versatilidade na sociabilidade, não demonstração exaustiva de saber técnico nem transparência sobre sua vida."
+    },
+    {
+      "id": "almas-19",
+      "book": "almas",
+      "topic": "Aprovação e conhecimento",
+      "context": "\"a sua chegada encheu de alegria todos os funcionários. O governador chamou-lhe «homem bem intencionado»\"",
+      "page": "p. 22",
+      "stem": "A aprovação recebida por Tchichikov deve ser interpretada como",
+      "options": [
+        "uma garantia oferecida pelo narrador sobre suas intenções, já que o acordo dos funcionários elimina as ambiguidades presentes em sua apresentação inicial",
+        "uma conclusão resultante de investigação administrativa, que permite aos moradores verificar a história profissional relatada durante as visitas",
+        "um julgamento favorável construído nas interações sociais, insuficiente para converter a impressão de cortesia e competência em certeza sobre suas intenções",
+        "uma opinião restrita ao governador, cuja avaliação permanece isolada e contrasta com a hostilidade demonstrada pelos demais moradores da cidade",
+        "um disfarce conscientemente mantido pelas autoridades, que identificaram o propósito do viajante e fingem aceitá-lo para observar seus movimentos"
+      ],
+      "answer": 2,
+      "explanation": "Os elogios registram o efeito da presença e dos comportamentos de Tchichikov sobre os moradores. A confiança das personagens não resolve as lacunas que a seleção narrativa mantém abertas para o leitor."
+    },
+    {
+      "id": "almas-20",
+      "book": "almas",
+      "topic": "Antecipação narrativa",
+      "context": "\"Esta opinião, em extremo lisonjeira para o recém-chegado, manteve-se até ao dia em que um raro capricho do viajante e uma aventura ou lance que o leitor conhecerá em breve lançaram a estupefação em quase toda a cidade.\"",
+      "page": "p. 23",
+      "stem": "Considerando a aprovação recebida por Tchichikov ao longo do capítulo I, o anúncio que encerra o relato contribui para",
+      "options": [
+        "encerrar definitivamente a avaliação da personagem, transformando o anúncio final em confirmação de que os moradores compreenderam suas intenções desde a chegada",
+        "esclarecer antecipadamente o acontecimento responsável pela mudança, permitindo ao leitor reconstruir todos os detalhes do propósito que motivou a viagem",
+        "invalidar todos os acontecimentos anteriores como invenções do viajante, convertendo as visitas e os elogios em episódios de um relato assumidamente imaginário",
+        "tensionar a imagem de aceitação geral por uma expectativa de abalo, mantendo em suspenso a natureza do acontecimento que modificará a percepção da cidade",
+        "transferir aos moradores o conhecimento do futuro, explicando que seus elogios já incorporam a consciência da reviravolta anunciada no encerramento"
+      ],
+      "answer": 3,
+      "explanation": "O encerramento contrapõe à acolhida presente a previsão de um acontecimento perturbador. A antecipação produz expectativa e cautela sem identificar o episódio nem revelar o conteúdo dos capítulos seguintes."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "almas-f01",
+      "book": "almas",
+      "tag": "Personagem",
+      "front": "Como a sequência com 'nem' apresenta Tchichikov?",
+      "back": "Ela evita os extremos da aparência sem fornecer traços muito individualizadores. A apresentação mantém a personagem pouco definida e não oferece garantia sobre seu caráter."
+    },
+    {
+      "id": "almas-f02",
+      "book": "almas",
+      "tag": "Chegada",
+      "front": "O que os dois homens do povo observam na chegada?",
+      "back": "Comentam a roda da caleche e sua possível resistência numa viagem, mais do que o viajante. O desvio para o veículo prolonga a falta de informações sobre quem chega."
+    },
+    {
+      "id": "almas-f03",
+      "book": "almas",
+      "tag": "Grotesco",
+      "front": "Como a hospedaria produz humor grotesco?",
+      "back": "A descrição insiste na sujeira, no desconforto e em imagens corporais ou materiais exageradas, como os insetos comparados a ameixas. O desagradável ganha uma dimensão cômica, sem deixar de expor a precariedade."
+    },
+    {
+      "id": "almas-f04",
+      "book": "almas",
+      "tag": "Personagens",
+      "front": "Quem são Selifan e Petrushka no capítulo I?",
+      "back": "Selifan é o cocheiro, que cuida dos cavalos; Petrushka é o lacaio, que se instala na antecâmara. Suas tarefas e a descrição material de Petrushka ajudam a compor o entorno cotidiano de Tchichikov."
+    },
+    {
+      "id": "almas-f05",
+      "book": "almas",
+      "tag": "Marcação I",
+      "front": "O que significa I no roteiro de leitura?",
+      "back": "I marca as informações que Tchichikov procura. Exemplos são os nomes das autoridades, o número de servos dos proprietários, seu temperamento e a ocorrência de epidemias."
+    },
+    {
+      "id": "almas-f06",
+      "book": "almas",
+      "tag": "Marcação C",
+      "front": "O que significa C no roteiro de leitura?",
+      "back": "C marca comportamentos que ajudam Tchichikov a conquistar confiança. Elogios, tratamentos elevados, cumprimentos e adaptação do tom da conversa participam da construção dessa imagem favorável."
+    },
+    {
+      "id": "almas-f07",
+      "book": "almas",
+      "tag": "Marcação N",
+      "front": "O que significa N no roteiro de leitura?",
+      "back": "N marca intervenções do narrador que provocam humor, dúvida ou crítica. Inclui comentários pessoais, comparações satíricas e observações que fazem o leitor desconfiar de uma aparência positiva."
+    },
+    {
+      "id": "almas-f08",
+      "book": "almas",
+      "tag": "Investigação",
+      "front": "Por que não tratar as perguntas ao criado como simples conversa casual?",
+      "back": "A insistência e a articulação entre informações administrativas, patrimoniais e sanitárias sugerem uma busca organizada. O capítulo permite levantar essa hipótese, mas não confirmar a finalidade específica da investigação."
+    },
+    {
+      "id": "almas-f09",
+      "book": "almas",
+      "tag": "Ironia",
+      "front": "Onde está a ironia na descrição do jardim?",
+      "back": "O narrador descreve árvores raquíticas, enquanto o jornal celebra um jardim de árvores copadas e frondosas. O contraste expõe a distância entre a realização material e o discurso elogioso da administração."
+    },
+    {
+      "id": "almas-f10",
+      "book": "almas",
+      "tag": "Contraste",
+      "front": "Como o elogio dos caminhos se relaciona com o empedrado?",
+      "back": "A narrativa já registrara o mau empedrado, mas Tchichikov elogia os caminhos diante do governador. O leitor pode confrontar a descrição com a fala lisonjeira e perceber a conveniência social do elogio."
+    },
+    {
+      "id": "almas-f11",
+      "book": "almas",
+      "tag": "Narrador",
+      "front": "O narrador de Almas Mortas é uma voz neutra e invisível?",
+      "back": "Não: ele narra a história em terceira pessoa, mas também comenta, avalia, faz digressões e se dirige ao leitor. Essas intervenções orientam o humor e a distância crítica em relação às aparências sociais."
+    },
+    {
+      "id": "almas-f12",
+      "book": "almas",
+      "tag": "Autorretrato",
+      "front": "O que permanece pouco esclarecido na fala de Tchichikov sobre si?",
+      "back": "Ele se apresenta como modesto, íntegro e perseguido, mas emprega fórmulas genéricas e oferece poucos dados verificáveis. A versão favorável que constrói não equivale a uma confirmação independente de seu passado."
+    },
+    {
+      "id": "almas-f13",
+      "book": "almas",
+      "tag": "Comparação",
+      "front": "Que efeito tem a comparação dos convidados com moscas?",
+      "back": "A movimentação dos fraques é aproximada da agitação de insetos em torno do açúcar. A comparação rebaixa comicamente a solenidade do sarau e torna a exibição social objeto de sátira."
+    },
+    {
+      "id": "almas-f14",
+      "book": "almas",
+      "tag": "Tipos sociais",
+      "front": "Gordos e magros representam apenas diferenças físicas?",
+      "back": "Não: a oposição satírica articula aparência, estabilidade nos cargos e acumulação de patrimônio. Tchichikov avalia a assembleia e se aproxima dos gordos, associados aos interesses mais bem estabelecidos."
+    },
+    {
+      "id": "almas-f15",
+      "book": "almas",
+      "tag": "Personagens",
+      "front": "Como Manilov e Sobakevich aparecem no primeiro encontro?",
+      "back": "Manilov é apresentado como muito cortês e afável; Sobakevich, como corpulento e de modos mais lacônicos. Ambos convidam Tchichikov a visitá-los, depois de ele procurar informações sobre suas condições econômicas."
+    },
+    {
+      "id": "almas-f16",
+      "book": "almas",
+      "tag": "Personagem",
+      "front": "Que impressão inicial o capítulo oferece de Nozdriov?",
+      "back": "Ele rapidamente trata Tchichikov e autoridades por 'tu', sugerindo familiaridade desenvolta. Durante o jogo, porém, os demais acompanham atentamente suas paradas e as cartas, um detalhe que impede tomar a familiaridade como confiança irrestrita."
+    },
+    {
+      "id": "almas-f17",
+      "book": "almas",
+      "tag": "Contexto",
+      "front": "Como situar a obra no contexto do realismo russo?",
+      "back": "Publicada em 1842, a obra participa da formação do realismo russo ao representar burocracia, hierarquias e relações patrimoniais. Essa observação social convive com sátira, exagero e grotesco: realismo não significa ausência de deformação cômica."
+    },
+    {
+      "id": "almas-f18",
+      "book": "almas",
+      "tag": "Contexto",
+      "front": "O que significa 'almas' no contexto da servidão russa?",
+      "back": "Além do sentido religioso, o termo podia designar servos homens contabilizados em registros fiscais, vinculados ao domínio senhorial. O número de servos sinaliza patrimônio e posição social; essa informação histórica não revela, por si, o objetivo de Tchichikov no capítulo I."
+    },
+    {
+      "id": "almas-f19",
+      "book": "almas",
+      "tag": "Confiança",
+      "front": "Por que a aprovação dos moradores não encerra a avaliação do leitor?",
+      "back": "Os moradores valorizam a cortesia, a conversa e a atenção de Tchichikov aos interlocutores. O leitor também acompanha lacunas, prioridades nas perguntas e comentários do narrador que tornam prudente distinguir boa impressão de intenções comprovadas."
+    },
+    {
+      "id": "almas-f20",
+      "book": "almas",
+      "tag": "Antecipação",
+      "front": "Qual é a função da frase final do capítulo I?",
+      "back": "O narrador anuncia que um acontecimento abalará a opinião favorável sobre o recém-chegado. A antecipação cria suspense e contrapõe a confiança atual dos moradores à cautela do leitor, sem esclarecer ainda a natureza da reviravolta."
+    }
+  ]
+}

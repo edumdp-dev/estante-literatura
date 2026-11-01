@@ -1,0 +1,112 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader Variable', ui-serif, Georgia, serif;
+
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-soft: var(--soft);
+  --color-line: var(--line);
+  --color-wash: var(--wash);
+
+  --color-gh: #c0862f;
+  --color-visao: #2f62d0;
+  --color-almas: #c22f36;
+  --color-ateneu: #3a7a55;
+}
+
+:root {
+  --paper: #f4f4f1;
+  --card: #ffffff;
+  --ink: #15161a;
+  --soft: #6a6b71;
+  --line: #e2e1dc;
+  --wash: #ebeae6;
+  color-scheme: light;
+}
+
+.dark {
+  --paper: #0e0f12;
+  --card: #17181c;
+  --ink: #ecebe6;
+  --soft: #8f9096;
+  --line: #27282d;
+  --wash: #1d1e23;
+  color-scheme: dark;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-sans);
+  min-height: 100dvh;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-gh) 35%, transparent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Flashcard flip */
+.flip {
+  perspective: 1600px;
+}
+.flip-inner {
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.flip-inner.is-flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-back {
+  transform: rotateY(180deg);
+}
+
+/* Landing cover fan */
+.fan > * {
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.5s;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "visao-01",
+      "book": "visao",
+      "topic": "Voz narrativa",
+      "context": "“Não o inquietava ouvir os próprios passos.”",
+      "page": "p. 11",
+      "stem": "Considerando o trecho e a posição do narrador no romance, a voz narrativa caracteriza-se por",
+      "options": [
+        "apresentar em primeira pessoa as lembranças de um capitão que organiza o próprio passado e controla as informações transmitidas ao leitor",
+        "contar em terceira pessoa uma história da qual não participa como personagem, podendo comunicar disposições interiores do protagonista",
+        "restringir o relato aos comportamentos observáveis do capitão, deixando seus sentimentos inteiramente inacessíveis à voz que narra",
+        "reconstituir como testemunha as ações do capitão, justificando o conhecimento de sua intimidade pela convivência na mesma casa",
+        "atribuir às plantas a responsabilidade de narrar a vida do capitão, fazendo de seu olhar uma voz coletiva participante dos acontecimentos"
+      ],
+      "answer": 1,
+      "explanation": "O narrador é heterodiegético: não participa da história como personagem e narra em terceira pessoa. O acesso à ausência de inquietação de Celestino ultrapassa a descrição puramente externa."
+    },
+    {
+      "id": "visao-02",
+      "book": "visao",
+      "topic": "Focalização e interpretação",
+      "context": "“Nada esperavam dele.”",
+      "page": "p. 33",
+      "stem": "A afirmação sobre as plantas, em contraste com o amor que Celestino imagina receber, permite reconhecer que",
+      "options": [
+        "a perspectiva do capitão organiza integralmente o relato, de modo que o desinteresse das plantas corresponde à sua própria conclusão definitiva",
+        "o narrador registra apenas fatos visíveis, evitando qualquer intervenção que diferencie a experiência vegetal das expectativas humanas",
+        "o florescimento confirma o afeto recíproco que o capitão reconhece, embora a gratidão das plantas não se manifeste por palavras",
+        "o relato ultrapassa a interpretação do capitão e apresenta a indiferença das plantas, criando distância crítica em relação à reciprocidade que ele supõe",
+        "a narração abandona a terceira pessoa e entrega diretamente às plantas uma confissão de ressentimento contra os cuidados recebidos"
+      ],
+      "answer": 3,
+      "explanation": "O narrador distingue o funcionamento das plantas da leitura afetiva de Celestino. A proximidade com a consciência do protagonista não impede a apresentação de informações que contrariam suas projeções."
+    },
+    {
+      "id": "visao-03",
+      "book": "visao",
+      "topic": "Personificação",
+      "context": "“As plantas viam o jardineiro como as plantas vêem.”",
+      "page": "p. 33",
+      "stem": "A formulação atribui uma visão às plantas e, ao mesmo tempo, contribui para",
+      "options": [
+        "aproximar figuradamente os vegetais de uma capacidade humana, preservando a diferença entre sua existência e o julgamento moral esperado pelo leitor",
+        "transformar as plantas em testemunhas conscientes dos crimes, capazes de absolver o capitão por meio do crescimento de suas flores",
+        "equiparar integralmente a consciência vegetal à humana, fazendo da jardinagem uma relação de amizade confirmada pelo narrador",
+        "restringir o sentido da visão ao olhar debilitado do capitão, sem atribuir às plantas qualquer papel na construção da perspectiva narrativa",
+        "substituir a reflexão ética por uma explicação científica, demonstrando que a percepção vegetal reconhece a inocência do jardineiro"
+      ],
+      "answer": 0,
+      "explanation": "A personificação atribui às plantas um olhar, mas o complemento ressalta sua alteridade. Elas não se tornam agentes de um tribunal moral humano."
+    },
+    {
+      "id": "visao-04",
+      "book": "visao",
+      "topic": "Comparação e julgamento",
+      "context": "“As plantas viam-no como um olho de vidro vê a passagem das\r\nnuvens.”",
+      "page": "p. 34",
+      "stem": "Na comparação com o olho de vidro, o olhar atribuído às plantas funciona como",
+      "options": [
+        "uma forma de vigilância moral que acompanha o capitão e prepara a punição de seus crimes pela progressiva destruição do jardim",
+        "uma imagem da cegueira física do jardineiro que elimina a diferença entre os seus sentimentos e os sentimentos das flores cultivadas",
+        "uma indicação de que o relato depende de uma testemunha vegetal confiável, encarregada de reconstruir objetivamente as viagens do capitão",
+        "um sinal de insensibilidade adquirida pelo convívio com o assassino, sugerindo que o cuidado corrompeu a inocência inicial da natureza",
+        "uma percepção figurada sem a consciência julgadora que o leitor poderia projetar na natureza, não constituindo prova de perdão ou condenação"
+      ],
+      "answer": 4,
+      "explanation": "O olho de vidro sugere uma visão desprovida da participação afetiva e moral humana. A comparação reforça a indiferença vegetal, sem convertê-la em absolvição."
+    },
+    {
+      "id": "visao-05",
+      "book": "visao",
+      "topic": "Antítese e memória",
+      "context": "“antes água que cal”",
+      "page": "p. 23",
+      "stem": "A oposição entre água e cal na fala do jardineiro aproxima cuidado e violência porque",
+      "options": [
+        "separa completamente duas fases de sua vida, indicando que a rega atual eliminou a memória dos acontecimentos ocorridos no porão",
+        "apresenta duas técnicas equivalentes de cultivo, permitindo que a experiência marítima seja aplicada ao jardim sem qualquer tensão ética",
+        "faz o gesto de regar ressoar com a cal utilizada contra pessoas escravizadas, introduzindo a violência passada no vocabulário do cuidado presente",
+        "representa uma confissão dirigida ao padre, pela qual o capitão reconhece seus crimes e solicita uma penitência proporcional ao sofrimento causado",
+        "transfere às plantas a experiência literal dos cativos, afirmando que o jardim reproduz materialmente o mesmo episódio ocorrido no navio"
+      ],
+      "answer": 2,
+      "explanation": "A água da rega contrasta com a cal que matou as pessoas encerradas no porão. A associação impede que a ternura presente seja lida como ruptura automática com o passado."
+    },
+    {
+      "id": "visao-06",
+      "book": "visao",
+      "topic": "Violência escravista",
+      "context": "“Os homens despejaram a cal no porão, saco\r\na saco.”",
+      "page": "p. 34",
+      "stem": "Considerando a sequência da morte no porão e sua inserção na descrição das plantas, a narrativa",
+      "options": [
+        "expõe a responsabilidade do capitão pela morte de pessoas escravizadas e confronta essa violência com a ausência de julgamento do jardim",
+        "apresenta o massacre como uma versão entre rumores incompatíveis, sem fornecer elementos para relacioná-lo efetivamente ao protagonista",
+        "explica a morte dos cativos como consequência involuntária da navegação, deslocando a responsabilidade do capitão para as condições do oceano",
+        "transforma o silêncio posterior aos pedidos de socorro em aceitação dos cativos, aproximando-o da tranquilidade experimentada pelo jardineiro",
+        "subordina a violência à conversão religiosa do capitão, utilizando a lembrança do porão para confirmar a reparação produzida pelo cultivo"
+      ],
+      "answer": 0,
+      "explanation": "A cena explicita o uso deliberado da cal e a participação de Celestino no fechamento do porão. A ausência de lamento das flores não relativiza a violência; transfere ao leitor a exigência de avaliá-la."
+    },
+    {
+      "id": "visao-07",
+      "book": "visao",
+      "topic": "Tempo e analepses",
+      "context": "“Queimara cabanas, cortara\r\ncabeças, espalhara a notícia.”",
+      "page": "p. 13",
+      "stem": "A recuperação do passado violento no desenvolvimento da rotina de jardinagem permite reconhecer que",
+      "options": [
+        "a ordem dos acontecimentos coincide com a ordem do relato, conduzindo continuamente a infância do capitão ao seu retorno à vila",
+        "as lembranças antecipam acontecimentos posteriores à morte, produzindo uma visão profética sobre o destino dos moradores da vila",
+        "o presente da jardinagem serve apenas como moldura sem relevância, pois os episódios marítimos substituem definitivamente a ação na casa",
+        "as analepses interrompem a continuidade do presente e aproximam o antigo agressor do homem que agora se dedica ao cultivo",
+        "o passado aparece como uma recordação inteiramente ordenada pelo protagonista, cuja interpretação é sempre ratificada pela voz narrativa"
+      ],
+      "answer": 3,
+      "explanation": "As analepses são recuos a acontecimentos anteriores ao presente da história. A alternância temporal faz coexistirem, na leitura, a brutalidade marítima e a delicadeza do jardineiro."
+    },
+    {
+      "id": "visao-08",
+      "book": "visao",
+      "topic": "Fragmentação da consciência",
+      "context": "“Sangue e luz esta noite. Terceira vez esta semana.”",
+      "page": "p. 27",
+      "stem": "A recorrência da imagem em meio a registros breves e descontínuos contribui para",
+      "options": [
+        "organizar uma cronologia rigorosa das viagens, na qual cada imagem corresponde a um acontecimento datado e explicado pelo capitão",
+        "aproximar lembrança, sensação e inquietação por associações pouco explicitadas, fazendo a descontinuidade da linguagem participar da experiência interior",
+        "substituir a voz do protagonista pela fala coletiva da vila, cujos rumores recompõem de maneira estável os episódios de sua juventude",
+        "demonstrar um arrependimento plenamente formulado, pois a repetição traduz uma interpretação moral explícita e coerente de todos os crimes",
+        "separar os fragmentos da história principal, tratando as imagens como ornamentação lírica sem relação com a memória ou a velhice"
+      ],
+      "answer": 1,
+      "explanation": "A repetição e a justaposição de frases curtas articulam percepções e memórias sem encadeamento explicativo estável. A forma fragmentária aproxima o leitor da desorganização da experiência de Celestino."
+    },
+    {
+      "id": "visao-09",
+      "book": "visao",
+      "topic": "Voz da personagem",
+      "context": "“Coisas que eu vi no mar.”",
+      "page": "p. 27",
+      "stem": "A presença da primeira pessoa entre os fragmentos do romance indica que",
+      "options": [
+        "o narrador se revela finalmente como Celestino, tornando retrospectivamente autobiográficas todas as passagens anteriores em terceira pessoa",
+        "as plantas assumem a narração dos acontecimentos marítimos, utilizando o pronome pessoal para expressar uma memória compartilhada com o capitão",
+        "o relato perde qualquer possibilidade de acesso à interioridade, já que a fala direta da personagem se limita ao registro de ações exteriores",
+        "a autora intervém como personagem nas viagens, identificando sua experiência biográfica com os acontecimentos vividos pelo capitão",
+        "a voz de Celestino ganha expressão direta dentro de uma narrativa heterodiegética, sem transformar o conjunto do romance em relato autobiográfico"
+      ],
+      "answer": 4,
+      "explanation": "A primeira pessoa dá passagem à voz e aos registros da personagem dentro do relato. Deve-se distinguir essa incorporação local da posição do narrador que conduz o romance."
+    },
+    {
+      "id": "visao-10",
+      "book": "visao",
+      "topic": "Cuidado e domínio",
+      "context": "“Vejo-as dormir e levantarem-se,\r\ntodas tão minhas, todas tão caladas, haviam de me querer fugir, que\r\nas arrancava logo da terra com esta mão”",
+      "page": "p. 23",
+      "stem": "A associação entre posse, silêncio e possibilidade de fuga evidencia que o afeto do capitão",
+      "options": [
+        "rompe integralmente com a experiência de mando, pois o cuidado com as flores se apoia no reconhecimento de uma liberdade que ele não procura limitar",
+        "é apresentado como representação consciente da escravidão, fazendo de cada espécie cultivada uma vítima histórica individualmente identificada",
+        "convive com a vontade de controlar os seres cultivados, de modo que a ameaça de arrancá-los compromete uma leitura puramente benevolente do jardim",
+        "corresponde a uma hostilidade sem qualquer ternura, tornando os gestos de proteção apenas uma aparência que o narrador desmente por completo",
+        "resulta do desejo de entregar o jardim à comunidade, razão pela qual a hipótese de fuga simboliza a circulação livre das plantas pela vila"
+      ],
+      "answer": 2,
+      "explanation": "O possessivo reiterado e a ameaça de arrancar as flores articulam amor e domínio. Essa ambivalência não apaga o cuidado, mas impede que ele seja tomado como prova suficiente de transformação moral."
+    },
+    {
+      "id": "visao-11",
+      "book": "visao",
+      "topic": "Inversão de poder",
+      "context": "“porque o jardim se tornara jardineiro do jardineiro.”",
+      "page": "p. 79",
+      "stem": "A inversão formulada no trecho permite compreender que",
+      "options": [
+        "o antigo organizador do jardim se torna dependente daquilo que cultivou, tendo sua suposta soberania desestabilizada pela velhice e pelo vínculo com as plantas",
+        "o jardim passa a executar literalmente as tarefas de cultivo, substituindo a ação humana e conduzindo o enredo ao domínio sobrenatural da casa",
+        "a morte do capitão restitui o poder à comunidade, que assume coletivamente a manutenção das flores e o julgamento de seus crimes",
+        "a jardinagem oferece ao protagonista autonomia crescente, permitindo que ele recupere o comando e a lucidez que possuía nas viagens",
+        "a relação entre capitão e plantas se torna historicamente idêntica ao tráfico de pessoas escravizadas, eliminando a diferença entre metáfora e acontecimento"
+      ],
+      "answer": 0,
+      "explanation": "A inversão metafórica desloca o capitão da posição de senhor para uma condição de dependência. Não se trata de identificar literalmente a vida vegetal com a escravidão histórica."
+    },
+    {
+      "id": "visao-12",
+      "book": "visao",
+      "topic": "Espaço e história colonial",
+      "context": "“A madeira viera do Pará.”",
+      "page": "p. 45",
+      "stem": "A procedência do mogno do Pará e a aproximação entre a rota dos troncos e a dos homens contribuem para",
+      "options": [
+        "isolar o interior doméstico do passado marítimo, mostrando que os objetos familiares pertencem a uma história de afetos sem vínculos com a exploração",
+        "estabelecer uma equivalência completa entre transporte de madeira e escravização, deixando de distinguir a condição histórica de pessoas e mercadorias",
+        "explicar a riqueza do capitão exclusivamente por sua atividade de carpinteiro, responsável pela produção e pela circulação atlântica dos móveis",
+        "inscrever a história atlântica no espaço familiar, fazendo do móvel doméstico um vestígio material de circuitos também atravessados pela violência colonial",
+        "apresentar o camiseiro como objeto sem memória, cuja presença serve apenas para contrastar a durabilidade da madeira com o desgaste dos moradores"
+      ],
+      "answer": 3,
+      "explanation": "A madeira vinda do Pará aproxima a casa portuguesa das rotas atlânticas. A comparação expõe a presença da história colonial nos objetos cotidianos, sem apagar a diferença entre pessoas escravizadas e troncos."
+    },
+    {
+      "id": "visao-13",
+      "book": "visao",
+      "topic": "Olhar religioso",
+      "context": "“Queria levá-lo à igreja a confessar-se.”",
+      "page": "p. 16",
+      "stem": "A intenção de padre Alfredo, confrontada com seu encontro com o jardim, evidencia que",
+      "options": [
+        "a confissão ocorre assim que o padre reconhece o valor das flores, encerrando a tensão entre o passado criminoso e a vida presente do capitão",
+        "o padre procura uma aproximação religiosa do capitão, mas a beleza do cultivo perturba os julgamentos que poderia formular sobre aquele homem",
+        "o padre abandona suas referências religiosas e passa a observar o jardim de uma perspectiva neutra, sem projetar sentidos sobre o que contempla",
+        "a visita tem como finalidade apenas aprender técnicas agrícolas, pois a salvação da alma do capitão não integra as preocupações do religioso",
+        "o capitão solicita espontaneamente uma penitência e transforma cada espécie de flor em símbolo explícito das vítimas de suas viagens"
+      ],
+      "answer": 1,
+      "explanation": "O desejo de conduzir Celestino à confissão situa o padre em um horizonte religioso. Seu espanto diante do jardim complica a relação entre esse horizonte de julgamento e a beleza efetivamente produzida pelo capitão."
+    },
+    {
+      "id": "visao-14",
+      "book": "visao",
+      "topic": "Desfecho e perspectiva",
+      "context": "“a\r\nvisão das plantas pareceu-lhe uma aleluia pela passagem da alma\r\ndo capitão.”",
+      "page": "p. 81",
+      "stem": "O verbo e o pronome presentes em pareceu-lhe contribuem para",
+      "options": [
+        "confirmar como verdade objetiva do narrador a salvação do capitão, traduzida pela participação consciente das plantas na celebração religiosa",
+        "revelar a interpretação do próprio capitão depois da morte, cuja voz retorna ao jardim para reconhecer o perdão concedido pelas flores",
+        "demonstrar que as plantas lamentam a morte do jardineiro, contradizendo sua indiferença anterior por uma transformação moral definitiva",
+        "retirar do padre qualquer responsabilidade interpretativa, atribuindo ao jardim uma mensagem religiosa unívoca que dispensa um observador",
+        "marcar a aleluia como leitura do padre sobre a paisagem, distinguindo sua atribuição de sentido de uma confirmação inequívoca da redenção"
+      ],
+      "answer": 4,
+      "explanation": "A construção situa o sentido religioso na perspectiva de Alfredo. A beleza das plantas não equivale, por si só, a uma sentença do narrador sobre a salvação de Celestino."
+    },
+    {
+      "id": "visao-15",
+      "book": "visao",
+      "topic": "Ironia",
+      "context": "“Nas suas mãos pias, todas as plantas\r\nmorriam.”",
+      "page": "p. 81",
+      "stem": "O contraste entre as mãos pias do padre e o destino das plantas em seus cuidados produz uma ironia porque",
+      "options": [
+        "reconcilia competência religiosa e habilidade de cultivo, fazendo do padre o continuador natural do trabalho deixado por Celestino",
+        "demonstra que a morte das flores decorre do castigo dirigido ao capitão, preservando a interpretação religiosa do padre como explicação final",
+        "desestabiliza a correspondência simples entre piedade e cuidado eficaz, contrapondo o religioso que mata plantas ao criminoso capaz de fazê-las florescer",
+        "atribui a sobrevivência do jardim exclusivamente à ausência de religião, convertendo a experiência do capitão em defesa explícita da descrença",
+        "revela que Celestino nunca soube cultivar, pois a contemplação final demonstra que toda a beleza do jardim fora produzida pelo padre"
+      ],
+      "answer": 2,
+      "explanation": "A qualificação religiosa das mãos de Alfredo contrasta com sua incapacidade de manter plantas vivas. A ironia dificulta equivalências fáceis entre virtude, beleza e capacidade de cuidar, sem absolver o capitão."
+    },
+    {
+      "id": "visao-16",
+      "book": "visao",
+      "topic": "Infância e fascínio",
+      "context": "“Os olhos das crianças brilhavam, de\r\ncuriosidade e medo, imaginando o que haveria atrás da pala.”",
+      "page": "p. 17",
+      "stem": "A curiosidade das crianças diante das histórias do capitão, considerada no conjunto da obra, permite discutir",
+      "options": [
+        "a transformação da violência narrada em aventura fascinante, num processo de circulação da memória que pode favorecer a construção de uma imagem heroica",
+        "a formação de um julgamento histórico plenamente crítico, pois o interesse das crianças se dirige principalmente à reparação devida às vítimas",
+        "a recusa da comunidade em transmitir o passado, uma vez que as histórias permanecem restritas ao pensamento silencioso do velho capitão",
+        "a condenação unânime do capitão pelos moradores, cujos sentimentos são idênticos e não sofrem alterações ao longo dos anos",
+        "a compreensão das narrativas como documentos exatos, já que o romance elimina qualquer mistura entre recordação, invenção e exagero"
+      ],
+      "answer": 0,
+      "explanation": "A mistura de medo e fascínio transforma atrocidades em histórias desejadas pelos ouvintes. Esse consumo de aventuras se articula à posterior memória de Celestino como herói remoto."
+    },
+    {
+      "id": "visao-17",
+      "book": "visao",
+      "topic": "Memória coletiva",
+      "context": "“Lembravam-no como a um herói remoto e não\r\ncomo o velho que ainda vivia na casa da rua dos choupos.”",
+      "page": "p. 81",
+      "stem": "A transformação das viagens em cantigas e da figura do capitão em herói remoto evidencia que",
+      "options": [
+        "a comunidade preserva integralmente a responsabilidade histórica do capitão, utilizando a heroicização apenas como outra forma de condenação",
+        "o reconhecimento público dos crimes produz reparação às vítimas, fazendo da cantiga o registro de uma justiça efetivamente cumprida",
+        "o desaparecimento dos antigos moradores impede qualquer continuidade da memória, de modo que o capitão deixa de ser assunto na vila",
+        "o tempo e a transmissão social podem converter um passado feroz em lenda admirável, afastando a violência histórica da imagem pela qual o homem é lembrado",
+        "o narrador confirma o mérito heroico das viagens, corrigindo como falsas as cenas anteriores em que o capitão participa de assassinatos"
+      ],
+      "answer": 3,
+      "explanation": "A heroização é um efeito da memória coletiva, não uma retificação factual dos crimes. A distância e a circulação das histórias tornam o capitão memorável como aventureiro, favorecendo o apagamento da violência."
+    },
+    {
+      "id": "visao-18",
+      "book": "visao",
+      "topic": "Menina holandesa",
+      "context": "“Atei as mãos à miúda. Vendei-lhe os olhos.”",
+      "page": "p. 22",
+      "stem": "Considerando os cuidados que a menina havia oferecido ao capitão e suas aparições posteriores, o episódio permite reconhecer",
+      "options": [
+        "uma relação de gratidão duradoura, pois o abandono na floresta é apresentado pelo narrador como proteção consentida pela própria criança",
+        "uma assimetria entre o amparo recebido e a violência praticada, cuja reaparição em visões não constitui prova suficiente de arrependimento",
+        "uma lembrança já reparada pelo protagonista, que procura a menina na velhice e obtém dela o perdão pelos acontecimentos da viagem",
+        "uma perseguição sobrenatural comprovada, pela qual a menina retorna objetivamente à vila para anunciar a punição do capitão",
+        "uma história sem relação com a vida posterior, já que a narrativa encerra definitivamente a presença da criança ao terminar o relato marítimo"
+      ],
+      "answer": 1,
+      "explanation": "A menina cuida de Celestino doente, mas ele a abandona amarrada e vendada. Sua presença posterior mistura memória e visão, sem assegurar reconhecimento moral da violência por parte do capitão."
+    },
+    {
+      "id": "visao-19",
+      "book": "visao",
+      "topic": "Consciência e responsabilidade",
+      "context": "“sem uma\r\ndúvida na consciência tranquila.”",
+      "page": "p. 81",
+      "stem": "A tranquilidade da consciência no momento da morte deve ser compreendida como",
+      "options": [
+        "um atestado objetivo de inocência, pois o estado interior do protagonista permite ao narrador excluir sua responsabilidade pelos crimes",
+        "uma consequência necessária da confissão ao padre, apresentada no desfecho como condição para o descanso espiritual do capitão",
+        "uma reparação simbólica suficiente às vítimas, já que o sofrimento anterior é compensado pelo amor dedicado às plantas do jardim",
+        "uma estratégia de ocultação do narrador, que deixa de mencionar o passado violento e impede o leitor de formular um julgamento próprio",
+        "uma condição subjetiva que convive com a responsabilidade pelos crimes, sem que o sossego pessoal demonstre inocência, reparação ou arrependimento"
+      ],
+      "answer": 4,
+      "explanation": "Consciência tranquila e responsabilidade moral não são equivalentes. O desfecho conserva a tensão entre a paz interior de Celestino e a violência que o leitor conhece."
+    },
+    {
+      "id": "visao-20",
+      "book": "visao",
+      "topic": "Epígrafe e intertextualidade",
+      "context": "“vida como pirata a acabou como um santo, cultivando com\r\nesmero um quintal de que ainda hoje me não lembro sem\r\ninveja.”",
+      "page": "p. 5",
+      "stem": "A retomada do capitão Celestino apresentado na epígrafe de Raul Brandão permite compreender que o romance",
+      "options": [
+        "se limita a desenvolver uma biografia comprovada, tratando o fragmento citado como documento que dispensa qualquer elaboração ficcional",
+        "abandona a imagem do jardineiro e privilegia exclusivamente a aventura marítima, corrigindo o interesse de Brandão pelas flores",
+        "amplia o breve retrato e problematiza a passagem de pirata a santo, mantendo o cuidado com o jardim em tensão com a história de violência",
+        "adota a santidade como conclusão incontroversa, atribuindo a todos os episódios a função de demonstrar o perdão alcançado pelo protagonista",
+        "utiliza a epígrafe apenas como adorno temático, sem retomar personagens, imagens ou formulações no desenvolvimento da narrativa"
+      ],
+      "answer": 2,
+      "explanation": "O romance expande o retrato de Os pescadores e tensiona a aparente passagem da ferocidade à santidade. O jardim e a consciência tranquila retornam sem eliminar o problema ético dos crimes."
+    },
+    {
+      "id": "visao-21",
+      "book": "visao",
+      "topic": "Clímax e perda de controle",
+      "context": "“A pá cavava sozinha, abrindo a cova. Deixou de sentir os braços.”",
+      "page": "p. 54",
+      "stem": "A escavação compulsiva pode ser interpretada como um ponto de culminação das tensões do enredo porque",
+      "options": [
+        "concentra a perda de domínio corporal e mental do capitão no próprio espaço que organizara, aproximando cultivo, esgotamento e ameaça de destruição",
+        "resolve o conflito moral por uma descoberta material, pois o brilhante encontrado permite ao capitão indenizar as vítimas de sua violência",
+        "restabelece a autonomia do protagonista, cuja disciplina de cultivo supera a velhice e devolve ao jardim a ordem perdida ao longo dos anos",
+        "corresponde a um suicídio conscientemente planejado, no qual cada movimento é explicado como preparação deliberada da própria sepultura",
+        "oferece um clímax único imposto pelo narrador, excluindo a possibilidade de reconhecer outros momentos de intensidade ética na obra"
+      ],
+      "answer": 0,
+      "explanation": "A cena reúne a relação com a terra, a compulsão e a perda de controle, podendo funcionar como clímax interpretativo. O texto não confirma descoberta de tesouro nem um projeto consciente de cavar a própria sepultura."
+    },
+    {
+      "id": "visao-22",
+      "book": "visao",
+      "topic": "Espaço e ação inicial",
+      "context": "“Descobriu a razão dos\r\nseus dias no quintal virado do avesso, abandonado pelo caseiro,\r\ntambém ele morto.”",
+      "page": "p. 12",
+      "stem": "O retorno à casa materna e a descoberta do quintal abandonado estabelecem uma situação inicial em que",
+      "options": [
+        "a restauração doméstica garante o retorno dos familiares, permitindo que o protagonista substitua sua vida solitária pela convivência com a mãe",
+        "a casa funciona como cenário neutro, sem relação com o envelhecimento do capitão ou com as histórias de seus antigos habitantes",
+        "o jardim já se encontra plenamente organizado, de modo que o protagonista apenas conserva uma rotina de cultivo herdada das mulheres da família",
+        "a deterioração da casa acompanha o envelhecimento do herdeiro, enquanto o cultivo passa a organizar uma existência marcada pela proximidade da morte",
+        "o afastamento do mar encerra toda relação com as viagens, impedindo que memórias e objetos da casa remetam à experiência atlântica"
+      ],
+      "answer": 3,
+      "explanation": "Celestino retorna sozinho a uma casa envelhecida e encontra no quintal uma razão de viver. Esse presente doméstico não elimina o passado marítimo que reaparece ao longo da narrativa."
+    },
+    {
+      "id": "visao-23",
+      "book": "visao",
+      "topic": "Beleza e julgamento",
+      "context": "“Tanto lhes fazia serem cuidadas por um assassino, se eram sujas\r\nas mãos que as amparavam ou o que viera antes do amor que ele\r\nlhes dedicava.”",
+      "page": "p. 33",
+      "stem": "A indiferença das plantas diante da identidade de quem as cultiva contribui para",
+      "options": [
+        "demonstrar que a natureza recompensa os homens bons, fornecendo no florescimento um critério seguro para avaliar o caráter do capitão",
+        "deslocar para o julgamento humano a questão da responsabilidade, pois a beleza vegetal pode coexistir com os crimes sem conceder perdão às vítimas",
+        "condenar o protagonista por meio da recusa das flores em crescer, fazendo da esterilidade do jardim a resposta moral aos acontecimentos do porão",
+        "afirmar que cuidado e violência se anulam reciprocamente, produzindo um equilíbrio moral que encerra a necessidade de avaliar o passado",
+        "reduzir a jardinagem a uma simulação sem afeto, uma vez que a ausência de gratidão das plantas comprova a falsidade do cuidado dedicado a elas"
+      ],
+      "answer": 1,
+      "explanation": "As plantas respondem às condições de vida, não à inocência do jardineiro. O cuidado pode ser real sem constituir reparação ou autorização para falar em nome das vítimas."
+    },
+    {
+      "id": "visao-24",
+      "book": "visao",
+      "topic": "Desenlace e ambivalência",
+      "context": "“O velho olhava o mar sem noção da caridade do rapaz, que só\r\nqueria estar perto de um pirata a sério.”",
+      "page": "p. 80",
+      "stem": "A aproximação de Manuel, que leva Celestino à praia e deseja estar perto de um pirata, permite reconhecer que",
+      "options": [
+        "a ajuda ao velho elimina o fascínio pela aventura, oferecendo uma relação inteiramente desinteressada que rompe com os olhares anteriores da vila",
+        "a última visita ao mar restaura a memória do capitão, fazendo do diálogo com o rapaz uma recapitulação coerente de toda a sua trajetória",
+        "o interesse de Manuel reproduz integralmente a crueldade do capitão, impedindo que seus gestos possam ser reconhecidos como auxílio efetivo",
+        "o encontro estabelece a transmissão fiel das experiências marítimas, pois ambos conversam longamente sobre as vítimas antes de regressarem à casa",
+        "o amparo concreto pode coexistir com o fascínio pela figura do pirata, enquanto a desorientação do capitão impede a aventura compartilhada que a cena poderia sugerir"
+      ],
+      "answer": 4,
+      "explanation": "Manuel oferece ajuda efetiva, mas sua motivação também envolve o desejo de conhecer um pirata. A cena articula essa ambivalência à deterioração da memória e da comunicação de Celestino."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "visao-f01",
+      "book": "visao",
+      "tag": "Protagonista",
+      "front": "Quem é o capitão Celestino?",
+      "back": "É um antigo pirata e traficante de pessoas escravizadas que retorna velho à casa materna, numa vila portuguesa próxima ao mar. Seu cuidado delicado com o jardim convive com a história de assassinatos e outras violências."
+    },
+    {
+      "id": "visao-f02",
+      "book": "visao",
+      "tag": "Narrador",
+      "front": "O narrador participa da história como personagem?",
+      "back": "Não. O narrador é heterodiegético e conduz o relato em terceira pessoa, com acesso a pensamentos e sensações de Celestino e a perspectivas de outras personagens."
+    },
+    {
+      "id": "visao-f03",
+      "book": "visao",
+      "tag": "Focalização",
+      "front": "Por que conhecer a intimidade de Celestino não significa adotar seu julgamento?",
+      "back": "O relato se aproxima de suas percepções, mas também apresenta informações que as contrariam. O capitão imagina amor recíproco nas flores, enquanto o narrador explicita a indiferença das plantas."
+    },
+    {
+      "id": "visao-f04",
+      "book": "visao",
+      "tag": "Vozes narrativas",
+      "front": "O que muda nos fragmentos em primeira pessoa?",
+      "back": "A voz de Celestino passa a aparecer diretamente, com registros descontínuos de lembranças, sensações e cotidiano. Isso não transforma o narrador do romance em protagonista autobiográfico."
+    },
+    {
+      "id": "visao-f05",
+      "book": "visao",
+      "tag": "Padre Alfredo",
+      "front": "Qual é o papel de padre Alfredo?",
+      "back": "Ele tenta conduzir Celestino à confissão e interpreta sua vida a partir de referências religiosas. A beleza do jardim perturba seus julgamentos, e a leitura final da paisagem como celebração da alma pertence à perspectiva do padre."
+    },
+    {
+      "id": "visao-f06",
+      "book": "visao",
+      "tag": "Crianças",
+      "front": "Quem são Raul, Pedro e Luzia e como se relacionam com o capitão?",
+      "back": "São crianças da vila que espreitam o quintal e se interessam pelas histórias de Celestino. Seu medo convive com curiosidade e fascínio, aproximando violência narrada e entretenimento."
+    },
+    {
+      "id": "visao-f07",
+      "book": "visao",
+      "tag": "Manuel",
+      "front": "Como Manuel participa do desenlace?",
+      "back": "Ele ajuda Celestino e o leva à praia perto da morte. Seu amparo convive com a vontade de estar próximo de um pirata, enquanto o velho já não consegue sustentar a conversa ou reconhecer plenamente o lugar."
+    },
+    {
+      "id": "visao-f08",
+      "book": "visao",
+      "tag": "Menina holandesa",
+      "front": "Que contraste estrutura o episódio da menina holandesa?",
+      "back": "Ela cuida de Celestino quando ele está doente; depois ele mata seus acompanhantes e a abandona amarrada e vendada na floresta. O cuidado recebido contrasta com a violência que ele pratica."
+    },
+    {
+      "id": "visao-f09",
+      "book": "visao",
+      "tag": "Visões",
+      "front": "Como interpretar as aparições da menina holandesa e da velha mulher negra?",
+      "back": "Elas se situam no limite entre lembrança, sonho e delírio, aproximando imagens da violência de formas de companhia e consolo. Sua presença não comprova uma assombração objetiva nem um arrependimento claramente formulado."
+    },
+    {
+      "id": "visao-f10",
+      "book": "visao",
+      "tag": "Espaço",
+      "front": "Quais espaços concentram a ação presente?",
+      "back": "A casa materna e seu jardim, numa vila portuguesa próxima ao mar. A deterioração da casa acompanha a velhice do herdeiro, enquanto o quintal passa de abandono a centro de sua rotina."
+    },
+    {
+      "id": "visao-f11",
+      "book": "visao",
+      "tag": "Espaço atlântico",
+      "front": "Qual é a função do mar na narrativa?",
+      "back": "O mar liga a vila ao passado de viagens, pirataria e tráfico de pessoas escravizadas. Memórias, cheiros e objetos impedem que o presente doméstico seja isolado dessa história."
+    },
+    {
+      "id": "visao-f12",
+      "book": "visao",
+      "tag": "Tempo",
+      "front": "Como se organiza o tempo do relato?",
+      "back": "O presente acompanha o retorno, o cultivo, o envelhecimento e a morte de Celestino, mas é interrompido por recuos ao passado marítimo. Essas analepses colocam lado a lado o jardineiro e o autor de atrocidades."
+    },
+    {
+      "id": "visao-f13",
+      "book": "visao",
+      "tag": "Tempo histórico",
+      "front": "É seguro atribuir um século exato a todos os acontecimentos?",
+      "back": "O passado de Celestino se vincula ao tráfico atlântico entre África e Brasil, mas a narrativa não oferece uma data precisa para todos os acontecimentos. Deve-se evitar uma cronologia mais exata do que o texto permite."
+    },
+    {
+      "id": "visao-f14",
+      "book": "visao",
+      "tag": "Conflito central",
+      "front": "Que tensão organiza a leitura ética de Celestino?",
+      "back": "A coexistência entre o homem que praticou extrema violência e aquele que oferece cuidado real às plantas. A vulnerabilidade e a ternura do velho não equivalem a reparação das vítimas nem demonstram inocência."
+    },
+    {
+      "id": "visao-f15",
+      "book": "visao",
+      "tag": "Situação inicial",
+      "front": "Como começa a trajetória de Celestino na vila?",
+      "back": "Ele regressa sozinho à casa materna envelhecida, desfaz-se de parte dos móveis e queima roupas e trabalhos guardados pelas mulheres da família. No quintal abandonado, encontra uma ocupação que passa a dar sentido aos seus dias."
+    },
+    {
+      "id": "visao-f16",
+      "book": "visao",
+      "tag": "Complicação",
+      "front": "O que se desenvolve quando Celestino começa a cultivar?",
+      "back": "O jardim floresce e organiza sua vida, enquanto rumores, histórias e lembranças recuperam o passado criminoso. A velhice agrava sua fragilidade, sua dependência e a descontinuidade de suas percepções."
+    },
+    {
+      "id": "visao-f17",
+      "book": "visao",
+      "tag": "Clímax possível",
+      "front": "Por que a escavação pode ser lida como clímax?",
+      "back": "A procura de um brilho na terra se torna escavação compulsiva, com perda de controle e esgotamento até o desmaio. A cena concentra a tensão entre o domínio do jardim e a desorganização do jardineiro, mas essa identificação de clímax é uma escolha interpretativa."
+    },
+    {
+      "id": "visao-f18",
+      "book": "visao",
+      "tag": "Desfecho",
+      "front": "Como termina a vida de Celestino?",
+      "back": "Depois do agravamento da fragilidade e da última visita à praia com Manuel, ele morre numa noite de inverno, com a consciência tranquila. Padre Alfredo benze o corpo e contempla o jardim, mas o julgamento ético do passado permanece aberto ao leitor."
+    },
+    {
+      "id": "visao-f19",
+      "book": "visao",
+      "tag": "Personificação e comparação",
+      "front": "Como as plantas recebem um olhar sem se tornarem juízas?",
+      "back": "A personificação lhes atribui ações como ver e vigiar, enquanto a comparação com um olho de vidro ressalta um olhar sem julgamento humano. O florescimento não funciona como declaração de gratidão, absolvição ou condenação."
+    },
+    {
+      "id": "visao-f20",
+      "book": "visao",
+      "tag": "Água e cal",
+      "front": "O que a aproximação entre água e cal condensa?",
+      "back": "A água cuida das flores; a cal remete à morte das pessoas escravizadas sufocadas no porão. A oposição faz o passado violento atravessar a linguagem amorosa do jardineiro, em vez de mantê-lo separado dela."
+    },
+    {
+      "id": "visao-f21",
+      "book": "visao",
+      "tag": "Fragmentação",
+      "front": "Qual é o efeito da recorrência de sangue e luz?",
+      "back": "A imagem retorna entre frases curtas e registros descontínuos, aproximando memória, sensação e delírio. A fragmentação formal acompanha a instabilidade da experiência interior do protagonista."
+    },
+    {
+      "id": "visao-f22",
+      "book": "visao",
+      "tag": "Domínio e dependência",
+      "front": "Como se inverte a relação entre Celestino e o jardim?",
+      "back": "O cuidado inclui posse e vontade de controle, mas o velho passa a depender das plantas para organizar sua existência. A inversão entre jardineiro e jardim questiona sua soberania sem equiparar literalmente essa dependência à escravidão histórica."
+    },
+    {
+      "id": "visao-f23",
+      "book": "visao",
+      "tag": "Mogno do Pará",
+      "front": "Por que o camiseiro liga a casa à história colonial?",
+      "back": "Sua madeira veio do Pará e percorreu uma rota aproximada à dos homens transportados pelo Atlântico. O objeto familiar incorpora marcas dos circuitos coloniais, aproximando intimidade doméstica e exploração."
+    },
+    {
+      "id": "visao-f24",
+      "book": "visao",
+      "tag": "Epígrafe",
+      "front": "Que relação a obra mantém com Raul Brandão?",
+      "back": "A epígrafe de Os pescadores apresenta Celestino como antigo pirata que terminou a vida cultivando flores, aparentemente como um santo. O romance amplia esse retrato e problematiza a passagem da ferocidade à santidade."
+    },
+    {
+      "id": "visao-f25",
+      "book": "visao",
+      "tag": "Memória e julgamento",
+      "front": "Por que consciência tranquila, memória heroica e beleza não encerram o julgamento?",
+      "back": "A paz interior do capitão não comprova reparação, e as cantigas da vila podem transformar atrocidades em aventura heroica. A aleluia percebida pelo padre é uma interpretação religiosa da beleza, não uma manifestação do perdão das vítimas."
+    }
+  ]
+}

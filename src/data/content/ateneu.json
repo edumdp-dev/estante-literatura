@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "id": "ateneu-01",
+      "book": "ateneu",
+      "topic": "Voz narrativa",
+      "context": "“Bastante experimentei depois a verdade deste aviso, que me despia, num gesto, das ilusões de criança”",
+      "page": "p. 21",
+      "stem": "Considerando o trecho e a posição de Sérgio no romance, sua voz narrativa caracteriza-se por",
+      "options": [
+        "apresentar retrospectivamente uma experiência pessoal por meio de uma voz que participou dos acontecimentos e ocupa o lugar de protagonista da história reconstruída.",
+        "apresentar retrospectivamente uma experiência alheia por meio de uma voz que testemunhou a formação de Sérgio e permanece à margem de seus conflitos escolares.",
+        "reconstituir a experiência escolar por meio de uma voz exterior aos acontecimentos, cuja proximidade afetiva com Sérgio explica a adoção da primeira pessoa.",
+        "reproduzir a experiência infantil por meio de uma voz que registra os acontecimentos à medida que ocorrem, sem conhecimento das consequências posteriores.",
+        "reconstituir a experiência coletiva por meio de uma voz que abandona sua trajetória pessoal e conhece diretamente a intimidade de todos os alunos do internato."
+      ],
+      "answer": 0,
+      "explanation": "Sérgio é narrador autodiegético: conta a própria história e é seu protagonista. O advérbio ‘depois’ já introduz o conhecimento retrospectivo que acompanha a rememoração."
+    },
+    {
+      "id": "ateneu-02",
+      "book": "ateneu",
+      "topic": "Tempo da experiência e tempo da narração",
+      "context": "“Eu tinha onze anos.” [...] “Honrado engano, esse ardor franco por uma empresa ideal de energia e de dedicação premeditada confusamente, no cálculo pobre de uma experiência de dez anos.”",
+      "page": "p. 22 e 34",
+      "stem": "A articulação entre a idade do menino e a avaliação de seu entusiasmo permite reconhecer que",
+      "options": [
+        "o narrador situa a experiência na infância e preserva integralmente a interpretação infantil, evitando confrontá-la com o que aprendeu em sua trajetória posterior.",
+        "o narrador adulto reconstitui o entusiasmo do menino e o reavalia como engano, distinguindo a consciência que viveu os fatos daquela que posteriormente os interpreta.",
+        "o narrador adulto atribui ao menino a consciência crítica já desenvolvida, fazendo da adesão à escola uma estratégia deliberada de denúncia da instituição.",
+        "o narrador situa a experiência na infância e identifica o erro exclusivamente na idade informada, tomando a memória como registro cronologicamente impossível.",
+        "o narrador adulto substitui a recordação por um julgamento exterior à própria história, eliminando a participação de sua sensibilidade na reconstrução do passado."
+      ],
+      "answer": 1,
+      "explanation": "A rememoração sobrepõe a experiência infantil e a perspectiva crítica posterior. ‘Honrado engano’ reconhece a sinceridade do desejo do menino, mas desautoriza a idealização que o sustentava."
+    },
+    {
+      "id": "ateneu-03",
+      "book": "ateneu",
+      "topic": "Abertura e formação",
+      "context": "“‘Vais encontrar o mundo’, disse-me meu pai, à porta do Ateneu. ‘Coragem para a luta.’”",
+      "page": "p. 21",
+      "stem": "A fala paterna na abertura da narrativa apresenta o ingresso no colégio como",
+      "options": [
+        "uma passagem para um ambiente que suspende as disputas sociais e assegura ao estudante o prolongamento da proteção que recebera no convívio doméstico.",
+        "uma preparação para conflitos que somente começarão depois da escolarização, mantendo a instituição afastada das relações de força existentes na sociedade.",
+        "uma entrada em relações sociais que exigem enfrentamento, fazendo do internato uma antecipação do mundo e da formação uma experiência de perda de ilusões.",
+        "uma confirmação das competências já adquiridas na família, pela qual o estudante poderá demonstrar uma autonomia plenamente consolidada antes da matrícula.",
+        "uma participação em competições que constituem o objetivo central do ensino, restringindo a ideia de luta aos exercícios apresentados na festa de ginástica."
+      ],
+      "answer": 2,
+      "explanation": "A porta do Ateneu marca o limiar entre o abrigo doméstico e a experiência social. A luta tem alcance formativo e simbólico, não se restringindo à competição física."
+    },
+    {
+      "id": "ateneu-04",
+      "book": "ateneu",
+      "topic": "Saudade e desencanto",
+      "context": "“Lembramo-nos, entretanto, com saudade hipócrita, dos felizes tempos” [...] “Eufemismo, os felizes tempos, eufemismo apenas”",
+      "page": "p. 21",
+      "stem": "A qualificação da saudade e a retomada da expressão “felizes tempos” contribuem para",
+      "options": [
+        "reafirmar a superioridade objetiva da infância, cuja felicidade permanece demonstrável apesar da linguagem pessimista adotada pelo narrador adulto.",
+        "opor uma infância inteiramente protegida a uma vida adulta incerta, atribuindo à mudança de idade a origem exclusiva das decepções humanas.",
+        "denunciar a falsidade de todas as lembranças particulares, substituindo a narrativa memorialística por uma recusa da possibilidade de recordar o passado.",
+        "questionar a idealização retrospectiva do passado, sugerindo que a nostalgia atenua verbalmente incertezas e decepções que também existiam na infância.",
+        "descrever uma hipocrisia exclusiva dos antigos professores, responsáveis por fazer o narrador confundir a felicidade escolar com os cuidados da família."
+      ],
+      "answer": 3,
+      "explanation": "O eufemismo suaviza uma realidade desagradável; aqui, o rótulo ‘felizes tempos’ encobre dificuldades anteriores. A reflexão impede uma leitura simplesmente nostálgica do subtítulo Crônica de saudades."
+    },
+    {
+      "id": "ateneu-05",
+      "book": "ateneu",
+      "topic": "A lição da vida",
+      "context": "“Sob a coloração cambiante das horas, um pouco de ouro mais pela manhã, um pouco mais de púrpura ao crepúsculo — a paisagem é a mesma de cada lado beirando a estrada da vida.”",
+      "page": "p. 22",
+      "stem": "A relação entre a coloração das horas e a permanência da paisagem constrói uma reflexão segundo a qual",
+      "options": [
+        "a passagem do tempo dissolve a continuidade da experiência, tornando incomparáveis os desejos infantis e as aspirações reconhecidas na idade adulta.",
+        "o amadurecimento garante uma melhora constante da existência, figurada pela substituição das cores matinais pela riqueza cromática do crepúsculo.",
+        "as transformações históricas ficam suspensas no internato, cuja organização conserva literalmente a mesma aparência em todas as fases da vida do narrador.",
+        "o sofrimento pertence apenas à interpretação tardia dos acontecimentos, enquanto a percepção infantil oferece acesso direto a uma existência sem incertezas.",
+        "as aparências e as aspirações se modificam, mas a experiência conserva uma continuidade de esperanças e inquietações que relativiza a superioridade do passado."
+      ],
+      "answer": 4,
+      "explanation": "A metáfora associa as mudanças de luz às variações da experiência e a paisagem à continuidade de sua condição básica. Não afirma que cada acontecimento seja idêntico, mas contesta a idealização de uma época inteiramente feliz."
+    },
+    {
+      "id": "ateneu-06",
+      "book": "ateneu",
+      "topic": "Individuação e ambivalência",
+      "context": "“Amarguei por antecipação o adeus às primeiras alegrias” [...] “distanciava-me da comunhão da família, como um homem! ia por minha conta empenhar a luta dos merecimentos”",
+      "page": "p. 22–23",
+      "stem": "A passagem da tristeza ao entusiasmo evidencia que a entrada no internato",
+      "options": [
+        "mobiliza sentimentos contraditórios, pois a perda do abrigo familiar se associa ao desejo de autonomia e ao orgulho de enfrentar uma experiência desconhecida.",
+        "resolve imediatamente o conflito afetivo do menino, que abandona a dependência familiar e alcança uma maturidade confirmada pelo narrador retrospectivo.",
+        "resulta de uma escolha individual contrária à família, fazendo da tristeza inicial um sinal de oposição à decisão tomada pelos próprios responsáveis.",
+        "representa uma continuidade sem ruptura com as primeiras alegrias, já que a luta dos merecimentos conserva a mesma segurança do universo dos brinquedos.",
+        "revela uma disposição crítica anterior à matrícula, pela qual o menino reconhece na propaganda escolar o interesse comercial disfarçado de ideal formativo."
+      ],
+      "answer": 0,
+      "explanation": "A despedida dos brinquedos e da família convive com a fantasia de tornar-se homem. A narrativa caracteriza uma autonomia desejada, ainda marcada por vaidade e inexperiência."
+    },
+    {
+      "id": "ateneu-07",
+      "book": "ateneu",
+      "topic": "Educação e mercado",
+      "context": "“reformava o estabelecimento, pintando-o jeitosamente de novidade, como os negociantes que liquidam para recomeçar com artigos de última remessa”",
+      "page": "p. 23",
+      "stem": "A comparação entre a administração do Ateneu e a atividade dos negociantes permite perceber",
+      "options": [
+        "uma defesa da renovação escolar como consequência suficiente da concorrência comercial, que garante a qualidade do ensino oferecido às famílias.",
+        "uma crítica à fabricação de novidade como estratégia de atração de clientes, aproximando o prestígio educacional dos mecanismos de promoção mercantil.",
+        "uma oposição entre o comércio e o ensino, pois a comparação demonstra que a reputação da escola prescinde de publicidade e de recursos materiais.",
+        "uma denúncia da ausência de qualquer reforma física no colégio, convertendo a pintura mencionada em prova literal de que o prédio nunca fora modificado.",
+        "uma explicação das dificuldades financeiras do estabelecimento, cuja propaganda funcionaria apenas como resposta ocasional à falta de alunos matriculados."
+      ],
+      "answer": 1,
+      "explanation": "O verbo ‘pintando’ e o paralelo com os negociantes destacam a apresentação calculada da novidade. O alvo é a lógica promocional do estabelecimento, não a simples existência de reformas."
+    },
+    {
+      "id": "ateneu-08",
+      "book": "ateneu",
+      "topic": "Retrato e caricatura",
+      "context": "“Aristarco todo era um anúncio. Os gestos, calmos, soberanos, eram de um rei — o autocrata excelso dos silabários”",
+      "page": "p. 24",
+      "stem": "A combinação das imagens do anúncio e do autocrata caracteriza Aristarco pela",
+      "options": [
+        "conciliação entre modéstia pessoal e competência pública, fazendo da soberania uma metáfora da independência dos estudantes perante a direção.",
+        "separação entre atuação profissional e imagem pessoal, preservando a autoridade pedagógica do interesse em divulgar o próprio estabelecimento.",
+        "conversão do corpo e dos gestos em autopropaganda, associada a uma autoridade engrandecida de modo irônico pelo contraste entre realeza e alfabetização.",
+        "recusa dos recursos de persuasão e dos símbolos de prestígio, pelos quais o narrador procura distinguir a escola das hierarquias políticas do império.",
+        "subordinação efetiva da monarquia à direção escolar, documentada pela expressão que identifica no pedagogo o governante formal da educação brasileira."
+      ],
+      "answer": 2,
+      "explanation": "O retrato transforma a figura física em publicidade e caricatura seu autoritarismo. A realeza do ‘autocrata’ aplicada aos silabários produz um engrandecimento irônico, não uma informação sobre cargo político."
+    },
+    {
+      "id": "ateneu-09",
+      "book": "ateneu",
+      "topic": "Prestígio e classe social",
+      "context": "“Como tardasse a estátua, Aristarco interinamente satisfazia-se com a afluência dos estudantes ricos para o seu instituto.” [...] “é comum o erro sensato de julgar melhores famílias as mais ricas”",
+      "page": "p. 25",
+      "stem": "A aproximação entre o desejo de estátua e a seleção social dos alunos permite interpretar o prestígio do Ateneu como",
+      "options": [
+        "uma distinção obtida por critérios exclusivamente intelectuais, cuja relação com a riqueza é acrescentada pelas famílias sem participação do diretor.",
+        "um resultado da democratização do acesso à escola, que dissolve a diferença entre reputação social e possibilidades econômicas das famílias.",
+        "uma consequência da filantropia de Aristarco, que utiliza a riqueza dos alunos para renunciar às honrarias e tornar impessoal a administração escolar.",
+        "uma construção ligada à vaidade do diretor e ao poder econômico das famílias, expondo a confusão entre riqueza, superioridade moral e qualidade educativa.",
+        "uma superioridade reconhecida pelo narrador sem reservas, já que a expressão ‘erro sensato’ elimina a contradição entre mérito e patrimônio familiar."
+      ],
+      "answer": 3,
+      "explanation": "A estátua representa a busca de consagração pessoal; a afluência dos ricos oferece uma satisfação substitutiva. A formulação paradoxal ‘erro sensato’ ironiza o preconceito que equipara riqueza e valor moral."
+    },
+    {
+      "id": "ateneu-10",
+      "book": "ateneu",
+      "topic": "Ironia e dupla perspectiva",
+      "context": "“os discursos, visados pelo diretor, pançudos de sisudez” [...] “eu recebia tudo convictamente, como o texto da bíblia do dever; e as banalidades profundamente lançadas como as sábias máximas do ensino redentor”",
+      "page": "p. 26",
+      "stem": "O contraste entre “banalidades” e “sábias máximas” torna perceptível",
+      "options": [
+        "a incapacidade dos alunos de compreender lições efetivamente profundas, cuja qualidade o adulto confirma ao recuperar a solenidade dos discursos escolares.",
+        "a equivalência assumida entre banalidade e sabedoria, pela qual o narrador defende a repetição de fórmulas como fundamento suficiente da formação moral.",
+        "a oposição entre os discursos dos professores e os dos alunos, reservando aos primeiros o conteúdo verdadeiro que o diretor não conseguia supervisionar.",
+        "a consciência crítica do menino durante a cerimônia, cuja adesão aparente aos discursos constitui um disfarce diante da presença do pai e do ministro.",
+        "a distância entre a credulidade infantil e a avaliação depreciativa do adulto, que desmascara a solenidade vazia de uma retórica apresentada como redentora."
+      ],
+      "answer": 4,
+      "explanation": "O menino recebe os discursos como verdades, enquanto a linguagem do adulto os chama de banalidades. A ironia nasce da sobreposição dessas perspectivas e da exposição da retórica institucional."
+    },
+    {
+      "id": "ateneu-11",
+      "book": "ateneu",
+      "topic": "Sacralização da autoridade",
+      "context": "“Acima de Aristarco — Deus! Deus tão somente; abaixo de Deus — Aristarco.”",
+      "page": "p. 27",
+      "stem": "No discurso de Venâncio, a organização hierárquica expressa pela frase contribui para",
+      "options": [
+        "sacralizar a autoridade do diretor por meio de um elogio hiperbólico, conferindo à instituição uma legitimidade que o enquadramento irônico do relato problematiza.",
+        "limitar o poder do diretor mediante a definição de controles institucionais, apresentados como consequência prática da superioridade de Deus sobre o ensino.",
+        "estabelecer uma igualdade entre todos os participantes da escola, uma vez que a referência religiosa anula as distinções entre professores e estudantes.",
+        "formular a opinião definitiva do narrador adulto, que assume como sua a escala de valores transmitida pelo professor na festa de encerramento.",
+        "substituir o elogio pessoal por uma exposição neutra da doutrina, afastando o discurso da promoção pública do diretor e da reputação do colégio."
+      ],
+      "answer": 0,
+      "explanation": "Venâncio aproxima o diretor da divindade, elevando o louvor a um extremo hiperbólico. Trata-se de uma fala de personagem inserida em uma rememoração crítica, não de uma adesão religiosa do narrador adulto."
+    },
+    {
+      "id": "ateneu-12",
+      "book": "ateneu",
+      "topic": "Focalização e interpretação",
+      "context": "“Eu me sentia compenetrado daquilo tudo; não tanto por entender bem, como pela facilidade da fé cega a que estava disposto.”",
+      "page": "p. 27",
+      "stem": "A distinção entre compreensão e fé cega indica que a adesão inicial de Sérgio ao colégio",
+      "options": [
+        "decorre de uma verificação independente dos métodos pedagógicos, embora o menino ainda não conheça o vocabulário empregado nos discursos dos professores.",
+        "é condicionada por sua disposição afetiva para acreditar, de modo que a impressão de grandeza não equivale a uma comprovação da qualidade institucional.",
+        "resulta de uma falsificação consciente do próprio entusiasmo, mediante a qual o menino procura corresponder às expectativas do pai sem acreditar nos elogios.",
+        "comprova a impossibilidade de qualquer entendimento posterior, pois a experiência infantil compromete definitivamente a capacidade interpretativa do narrador.",
+        "constitui um julgamento objetivo compartilhado pelo adulto, que recorre à fé cega para garantir a confiabilidade das declarações públicas de Aristarco."
+      ],
+      "answer": 1,
+      "explanation": "Sérgio retrospectivamente identifica a credulidade que sustentava sua admiração. A focalização conserva o encantamento vivido, mas o relato posterior explicita seus limites cognitivos."
+    },
+    {
+      "id": "ateneu-13",
+      "book": "ateneu",
+      "topic": "Espaço e atmosfera",
+      "context": "“As eminências de sombria pedra e a vegetação selvática debruçavam sobre o edifício um crepúsculo de melancolia” [...] “Aristarco dava-se palmas desta tristeza aérea — a atmosfera moral da meditação e do estudo, definia”",
+      "page": "p. 28",
+      "stem": "A descrição do espaço e a explicação de Aristarco estabelecem uma relação em que",
+      "options": [
+        "o caráter melancólico da paisagem comprova a eficácia dos métodos escolares, permitindo ao narrador deduzir resultados pedagógicos da localização do edifício.",
+        "a natureza permanece um cenário desprovido de valor afetivo, ao qual somente a fala direta do diretor acrescenta uma interpretação subjetiva e excepcional.",
+        "a paisagem recebe uma tonalidade emocional e o diretor converte essa atmosfera em atributo prestigioso da escola, incorporando-a ao discurso de valorização institucional.",
+        "a tristeza ambiental confirma a rejeição imediata do menino, que abandona o entusiasmo das festas ao reconhecer no terreno a origem dos abusos do colégio.",
+        "o diretor reconhece a hostilidade da localização e a apresenta como falha administrativa, distinguindo sua autocrítica das estratégias usuais de propaganda."
+      ],
+      "answer": 2,
+      "explanation": "A personificação e a melancolia fazem do espaço uma impressão afetiva, não um inventário neutro. Aristarco apropria-se até da tristeza do entorno como sinal de excelência educativa."
+    },
+    {
+      "id": "ateneu-14",
+      "book": "ateneu",
+      "topic": "Impressionismo e sinestesia",
+      "context": "“com o pitoresco dos tons enérgicos cantando vivo sobre a harmoniosa surdina do verde das montanhas”",
+      "page": "p. 29",
+      "stem": "A aproximação entre cores e expressões musicais favorece uma leitura impressionista do estilo porque",
+      "options": [
+        "substitui as percepções particulares por uma classificação científica das cores, conferindo à descrição a precisão impessoal de um estudo óptico do ambiente.",
+        "atribui à paisagem uma composição musical efetivamente executada, fazendo da montanha uma fonte sonora independente das bandas presentes na festa.",
+        "separa os estímulos visuais e auditivos para ordenar o espaço, evitando que o estado emocional do observador interfira na apresentação dos objetos.",
+        "recria a cena por impressões sensoriais associadas, usando vocabulário sonoro para intensificar relações cromáticas e tornar sensível a experiência do observador.",
+        "reduz a descrição à ação das personagens, de modo que os elementos visuais deixam de participar da construção artística da atmosfera da cerimônia."
+      ],
+      "answer": 3,
+      "explanation": "‘Tons’, ‘cantando’ e ‘surdina’ aproximam visão e audição, configurando sinestesia. A ênfase nas sensações e nos efeitos de cor sustenta a leitura impressionista, sem reduzir a obra inteira a uma classificação exclusiva."
+    },
+    {
+      "id": "ateneu-15",
+      "book": "ateneu",
+      "topic": "Disciplina e espetáculo",
+      "context": "“sorria à docilidade mecânica dos rapazes” [...] “com a simultaneidade exata das extensas máquinas”",
+      "page": "p. 30",
+      "stem": "As imagens mecânicas empregadas na apresentação da ginástica permitem associar a exibição dos alunos à",
+      "options": [
+        "valorização de iniciativas individuais não coordenadas, cujo efeito coletivo demonstra que a formação dispensa hierarquia e regularidade dos movimentos.",
+        "recusa da eficiência corporal como valor educativo, pela qual o narrador nega qualquer fascínio diante das demonstrações realizadas durante a festa.",
+        "representação da escola como oficina industrial efetiva, na qual os exercícios substituem o ensino para preparar operários destinados ao trabalho fabril.",
+        "manifestação de uma disciplina escolhida de maneira autônoma pelos alunos, cuja ausência de comando torna a uniformidade um resultado espontâneo.",
+        "produção de corpos coordenados e obedientes, convertidos em demonstração pública de eficiência institucional, ainda que a cena também fascine o menino."
+      ],
+      "answer": 4,
+      "explanation": "A docilidade e a simultaneidade mecânicas destacam o controle dos corpos e o efeito de conjunto. A crítica pode coexistir com o deslumbramento infantil, explicitamente narrado na mesma passagem da festa."
+    },
+    {
+      "id": "ateneu-16",
+      "book": "ateneu",
+      "topic": "Instituição e Segundo Reinado",
+      "context": "“Seu filho Jorge, na distribuição dos prêmios, recusara-se a beijar a mão da princesa, como faziam todos ao receber a medalha. Era republicano o pirralho!” [...] “E ninguém mais viu o republicano!”",
+      "page": "p. 32",
+      "stem": "Considerando a presença da princesa e a reação de Aristarco, o episódio de Jorge evidencia",
+      "options": [
+        "a vinculação do espetáculo escolar às hierarquias monárquicas e o constrangimento da dissidência, figurado de modo hiperbólico pelo desaparecimento do menino após a repreensão.",
+        "a neutralidade política da instituição diante do império, pois a participação da princesa se limita a uma função decorativa sem relação com os gestos exigidos dos alunos.",
+        "a transformação do colégio em espaço de defesa do republicanismo, uma vez que a recusa do filho é acolhida publicamente pelo diretor como exemplo de autonomia.",
+        "a descrição documental de uma punição física fatal, cuja ocorrência o narrador comprova ao afirmar que o olhar de Aristarco consumiu materialmente o estudante.",
+        "a igualdade entre as posições monárquica e republicana na cerimônia, demonstrada pela ausência de reação do público e pelo silêncio tolerante do diretor."
+      ],
+      "answer": 0,
+      "explanation": "O ritual de beijar a mão da princesa associa o prestígio escolar à ordem monárquica do Segundo Reinado. A referência ao olhar que teria cremado Jorge é hiperbólica e expõe o poder intimidatório de Aristarco, sem comprovar violência física literal."
+    },
+    {
+      "id": "ateneu-17",
+      "book": "ateneu",
+      "topic": "Memória e imagem artística",
+      "context": "“conheci-o mais tarde em mil situações, de mil modos; mas o retrato que me ficou para sempre do meu grande diretor, foi aquele” [...] “fotografia estática, na ventura de um raio elétrico”",
+      "page": "p. 33",
+      "stem": "A permanência de um retrato entre inúmeras situações recordadas sugere que a memória narrativa",
+      "options": [
+        "reproduz de forma exaustiva todas as aparições do diretor, atribuindo igual importância aos acontecimentos para assegurar uma reconstrução integral de sua personalidade.",
+        "seleciona e condensa experiências em uma imagem visual marcante, cuja força afetiva orienta o retrato de Aristarco e a elaboração artística do passado.",
+        "depende de um documento fotográfico conservado pelo narrador, que substitui a lembrança subjetiva por um registro material capaz de corrigir suas impressões.",
+        "preserva apenas a última experiência cronológica, pois os contatos posteriores com Aristarco anulam a importância das primeiras festas para a formação do menino.",
+        "mantém o diretor fora de qualquer julgamento, já que a fixação de sua aparência impede que a representação visual se articule à crítica de sua vaidade."
+      ],
+      "answer": 1,
+      "explanation": "A ‘fotografia’ nomeia metaforicamente uma impressão que se fixou na memória. A seleção da apoteose iluminada condensa o fascínio infantil e o projeto de consagração pessoal do diretor."
+    },
+    {
+      "id": "ateneu-18",
+      "book": "ateneu",
+      "topic": "Ruptura com a infância",
+      "context": "“o amigo há de ter a bondade de ir ao cabeleireiro deitar fora estes cachinhos...” [...] “Corte e ofereça à mamãe, aconselhou com uma carícia; é a infância que ali fica, nos cabelos louros...”",
+      "page": "p. 35–36",
+      "stem": "As falas de Aristarco e D. Ema sobre os cabelos de Sérgio permitem perceber que o corte",
+      "options": [
+        "reafirma a continuidade dos cuidados maternos no internato, pois os dois interlocutores atribuem ao gesto o mesmo sentido de preservação da dependência familiar.",
+        "expressa uma escolha estética inteiramente livre do menino, cuja decisão antecede as observações dos adultos e não interfere em sua relação com a família.",
+        "adquire valor simbólico de separação da infância, sendo imposto em tom de censura pelo diretor e traduzido em linguagem afetiva e materna por D. Ema.",
+        "demonstra a oposição de D. Ema às normas escolares, já que sua intervenção procura impedir o corte e conservar o menino à margem das exigências da instituição.",
+        "antecipa uma autonomia já plenamente alcançada por Sérgio, que interpreta os comentários com distanciamento e rejeita tanto a censura quanto a aproximação afetiva."
+      ],
+      "answer": 2,
+      "explanation": "Os cachos mantidos por desejo da mãe ligam o menino ao mundo doméstico. As duas falas convergem para o corte, mas o diretor o exige e D. Ema o ressignifica como despedida carinhosa da infância."
+    },
+    {
+      "id": "ateneu-19",
+      "book": "ateneu",
+      "topic": "Construção de D. Ema",
+      "context": "“o cetim vivia com ousada transparência a vida oculta da carne. Esta aparição maravilhou-me.” [...] “Que boa mãe para os meninos, pensava eu.”",
+      "page": "p. 35–36",
+      "stem": "A aproximação entre a descrição corporal de D. Ema e o pensamento de Sérgio permite reconhecer uma representação que",
+      "options": [
+        "distingue rigorosamente o olhar infantil do julgamento adulto, eliminando da rememoração qualquer elaboração sensorial do fascínio despertado pela personagem.",
+        "reduz a personagem à condição de funcionária do internato, subordinando os detalhes de sua aparência a uma explicação objetiva dos serviços de enfermagem.",
+        "estabelece uma oposição entre beleza e acolhimento, de modo que a percepção da sensualidade impede Sérgio de associar a esposa do diretor ao amor materno.",
+        "combina sensualidade na elaboração descritiva e expectativa de acolhimento materno, fazendo da personagem uma presença afetivamente idealizada pelo menino.",
+        "confirma por acesso direto à consciência da personagem a sinceridade absoluta de seus sentimentos, dispensando a mediação da impressão produzida sobre Sérgio."
+      ],
+      "answer": 3,
+      "explanation": "A linguagem sensorial do retrato convive com a fantasia de uma boa mãe para os internos. A narração registra o efeito de D. Ema sobre Sérgio, não um conhecimento onisciente de suas intenções."
+    },
+    {
+      "id": "ateneu-20",
+      "book": "ateneu",
+      "topic": "Crítica institucional",
+      "context": "“o homem sanduíche da educação nacional, ladeado entre dous monstruosos cartazes. Às costas, o seu passado incalculável de trabalhos; sobre o ventre, para a frente, o seu futuro: o reclame dos imortais projetos.”",
+      "page": "p. 37",
+      "stem": "A imagem que encerra o capítulo retoma a caracterização de Aristarco para",
+      "options": [
+        "confirmar a realização de todas as reformas anunciadas, convertendo os cartazes em prova de que o discurso pedagógico corresponde integralmente à prática escolar.",
+        "dissociar os feitos anteriores das expectativas futuras, apresentando a experiência profissional como garantia de que os projetos escapam à lógica da propaganda.",
+        "explicar a subordinação do diretor a anunciantes externos, cuja intervenção comercial impede a implementação de um projeto educacional formulado sem interesse pessoal.",
+        "restringir a crítica ao exagero verbal de uma conversa privada, preservando a escola e os valores sociais que sustentam sua reputação das implicações do retrato.",
+        "condensar a identificação entre educador e publicidade, convertendo o corpo do diretor em suporte de uma autocelebração que reúne realizações proclamadas e promessas futuras."
+      ],
+      "answer": 4,
+      "explanation": "O homem-sanduíche é uma figura que carrega anúncios; a metáfora sintetiza a transformação de Aristarco em propaganda. O encerramento retoma o ‘anúncio’ de seu retrato inicial e problematiza o vínculo entre educação, prestígio e autopromoção."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "ateneu-f01",
+      "book": "ateneu",
+      "tag": "Narrador",
+      "front": "Quem narra O Ateneu e qual é sua posição na história?",
+      "back": "Sérgio adulto rememora a própria experiência de aluno. É um narrador autodiegético: participa dos acontecimentos como protagonista, sem se confundir automaticamente com o autor Raul Pompeia."
+    },
+    {
+      "id": "ateneu-f02",
+      "book": "ateneu",
+      "tag": "Tempo",
+      "front": "Como se distinguem o tempo da experiência e o tempo da narração?",
+      "back": "O menino vive o ingresso no internato, enquanto o adulto reconstrói e avalia essa experiência posteriormente. O relato pode preservar o encantamento infantil e, ao mesmo tempo, classificá-lo como engano."
+    },
+    {
+      "id": "ateneu-f03",
+      "book": "ateneu",
+      "tag": "Abertura",
+      "front": "O que anuncia a frase “Vais encontrar o mundo”?",
+      "back": "A advertência do pai apresenta o internato como entrada nas relações e disputas da vida social. A recomendação de coragem antecipa uma aprendizagem difícil, além do abrigo doméstico."
+    },
+    {
+      "id": "ateneu-f04",
+      "book": "ateneu",
+      "tag": "Saudade",
+      "front": "Por que a expressão “saudade hipócrita” impede uma leitura apenas nostálgica?",
+      "back": "O narrador questiona a idealização dos ‘felizes tempos’, lembrando que a incerteza e a decepção também existiam antes. A saudade pode suavizar o passado em vez de recuperá-lo como felicidade efetivamente plena."
+    },
+    {
+      "id": "ateneu-f05",
+      "book": "ateneu",
+      "tag": "Formação",
+      "front": "Que ambivalência acompanha a saída do ambiente familiar?",
+      "back": "Sérgio sofre ao despedir-se das primeiras alegrias e dos brinquedos, mas se entusiasma com a possibilidade de agir ‘como um homem’. O desejo de autonomia convive com a vulnerabilidade e a inexperiência."
+    },
+    {
+      "id": "ateneu-f06",
+      "book": "ateneu",
+      "tag": "Memória",
+      "front": "Que recordações se destacam da escolarização anterior ao Ateneu?",
+      "back": "Sérgio recorda o pão com manteiga, traços singulares dos colegas e o primeiro palavrão ouvido na escola. A seleção mostra a força das impressões cotidianas e sensíveis, em vez de um inventário dos conteúdos aprendidos."
+    },
+    {
+      "id": "ateneu-f07",
+      "book": "ateneu",
+      "tag": "Propaganda",
+      "front": "Como se constrói a fama do Ateneu no capítulo I?",
+      "back": "A reputação é sustentada por anúncios, boletins, conferências, festas e circulação de livros ligados ao nome de Aristarco. A comparação com negociantes revela o componente mercantil da apresentação das novidades escolares."
+    },
+    {
+      "id": "ateneu-f08",
+      "book": "ateneu",
+      "tag": "Aristarco",
+      "front": "O que significa dizer que “Aristarco todo era um anúncio”?",
+      "back": "Gestos, aparência, condecorações e solenidade tornam o diretor uma propaganda viva da instituição e de si mesmo. O retrato une vaidade, ambição de consagração e exercício autoritário do poder."
+    },
+    {
+      "id": "ateneu-f09",
+      "book": "ateneu",
+      "tag": "Classe social",
+      "front": "Qual preconceito é exposto pela expressão “erro sensato”?",
+      "back": "A formulação ironiza a tendência a julgar as famílias mais ricas como as melhores. A composição social do Ateneu associa prestígio escolar, patrimônio familiar e expectativa de distinção."
+    },
+    {
+      "id": "ateneu-f10",
+      "book": "ateneu",
+      "tag": "Ironia",
+      "front": "Como funciona a ironia na festa de encerramento?",
+      "back": "O menino recebe os discursos com reverência, mas o adulto os descreve como solenes e banais. A diferença entre a adesão passada e a avaliação posterior expõe a retórica vazia da instituição."
+    },
+    {
+      "id": "ateneu-f11",
+      "book": "ateneu",
+      "tag": "Retórica",
+      "front": "Qual é a função do discurso de Venâncio?",
+      "back": "O professor elogia o mestre como prolongamento do amor familiar e eleva Aristarco a uma posição imediatamente inferior à de Deus. A hipérbole sacraliza a autoridade escolar e participa da autopromoção institucional."
+    },
+    {
+      "id": "ateneu-f12",
+      "book": "ateneu",
+      "tag": "Impressionismo",
+      "front": "Que traços sustentam a leitura impressionista do estilo?",
+      "back": "A descrição privilegia efeitos de luz, cor, movimento e sensação, filtrados pela experiência subjetiva. A paisagem e os retratos ganham tonalidades afetivas, sem se limitarem a um registro neutro dos objetos."
+    },
+    {
+      "id": "ateneu-f13",
+      "book": "ateneu",
+      "tag": "Sinestesia",
+      "front": "Como se aproximam cor e música na descrição da festa?",
+      "back": "Os ‘tons enérgicos cantando’ e a ‘surdina do verde’ associam impressões visuais e auditivas. Essa sinestesia intensifica a vivacidade sensorial da cena e sua elaboração artística."
+    },
+    {
+      "id": "ateneu-f14",
+      "book": "ateneu",
+      "tag": "Disciplina",
+      "front": "O que as imagens de exército e máquina sugerem na ginástica?",
+      "back": "O desfile e os exercícios exibem coordenação, hierarquia e obediência corporal. A demonstração de eficiência fascina Sérgio, mas o vocabulário mecânico permite perceber o controle institucional dos alunos."
+    },
+    {
+      "id": "ateneu-f15",
+      "book": "ateneu",
+      "tag": "Segundo Reinado",
+      "front": "Como o episódio de Jorge articula escola e monarquia?",
+      "back": "Jorge recusa beijar a mão da princesa e recebe um olhar intimidatório do pai, Aristarco. O episódio liga a cerimônia à hierarquia monárquica e mostra o constrangimento da dissidência republicana; a cremação pelo olhar é hipérbole, não morte comprovada."
+    },
+    {
+      "id": "ateneu-f16",
+      "book": "ateneu",
+      "tag": "Imagem e memória",
+      "front": "Por que a imagem iluminada de Aristarco permanece na memória?",
+      "back": "O narrador seleciona a aparição do diretor à sacada como retrato duradouro, apesar de tê-lo conhecido em muitas outras situações. A imagem condensa o deslumbramento do menino e a fantasia de imortalidade do diretor."
+    },
+    {
+      "id": "ateneu-f17",
+      "book": "ateneu",
+      "tag": "D. Ema",
+      "front": "Como D. Ema é apresentada na visita de matrícula?",
+      "back": "Seu retrato combina beleza sensual e promessa de acolhimento materno, sob o efeito do fascínio de Sérgio. Ao aconselhar que os cachos sejam oferecidos à mãe, transforma o corte exigido por Aristarco em símbolo afetivo de despedida da infância."
+    },
+    {
+      "id": "ateneu-f18",
+      "book": "ateneu",
+      "tag": "Crítica institucional",
+      "front": "O que sintetiza o “homem sanduíche da educação nacional”?",
+      "back": "A imagem final converte Aristarco em suporte de cartazes sobre suas realizações passadas e seus projetos futuros. O capítulo encerra-se condensando a identificação entre pedagogia, autoelogio e propaganda."
+    }
+  ]
+}

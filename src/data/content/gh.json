@@ -1,0 +1,555 @@
+{
+  "questions": [
+    {
+      "id": "gh-01",
+      "book": "gh",
+      "topic": "Voz narrativa",
+      "context": "\"estou procurando, estou procurando. Estou tentando entender. Tentando dar a alguém o que vivi e não sei a quem, mas não quero ficar com o que vivi.\"",
+      "page": "p. 5",
+      "stem": "Considerando o trecho e a posição de G.H. no romance, sua voz narrativa caracteriza-se por",
+      "options": [
+        "apresentar uma experiência pessoal por meio de uma voz que participa dos acontecimentos e procura reconstruí-los, ocupando, nessa trajetória, o lugar de protagonista da própria história.",
+        "apresentar os acontecimentos por meio de uma testemunha que acompanha a crise de outra personagem, mantendo sua experiência pessoal em posição secundária no relato.",
+        "reconstituir uma experiência já plenamente compreendida, empregando a primeira pessoa para transmitir ao destinatário um sentido estabilizado antes da narração.",
+        "organizar a experiência pessoal mediante uma voz exterior aos acontecimentos, cuja proximidade afetiva com a protagonista explica o emprego da primeira pessoa.",
+        "relatar a própria trajetória com acesso irrestrito às consciências das demais personagens, transformando a experiência individual em explicação objetiva do mundo."
+      ],
+      "answer": 0,
+      "explanation": "A narrativa estrutura-se em primeira pessoa por uma narradora-protagonista (autodiegética) que tenta reconstruir e dar forma linguística a uma vivência existencial e epifânica profunda."
+    },
+    {
+      "id": "gh-02",
+      "book": "gh",
+      "topic": "Focalização e interpretação",
+      "context": "\"Olhei o mural onde eu devia estar sendo retratada... Eu, o Homem. E quanto ao cachorro — seria este o epíteto que ela me dava?\"",
+      "page": "p. 30",
+      "stem": "As expressões \"devia estar\" e \"seria\" contribuem para",
+      "options": [
+        "apresentar a leitura de G.H. sobre o desenho e tornar perceptível sua inquietação diante de Janair, mantendo a intenção da empregada como objeto de uma interpretação.",
+        "confirmar a hostilidade de Janair por meio de uma voz que conhece as intenções de ambas as personagens, convertendo a dúvida inicial em certeza narrativa.",
+        "reproduzir o pensamento de Janair sobre a patroa, deslocando a focalização para a empregada e oferecendo uma explicação interior da criação do desenho.",
+        "estabelecer o desenho como documento imparcial das relações entre as personagens, limitando a inquietação de G.H. à escolha dos nomes das figuras.",
+        "demonstrar que a narradora abandona suas próprias impressões e reconstrói a intenção de Janair com a segurança de quem observa a situação de fora."
+      ],
+      "answer": 0,
+      "explanation": "As construções verbais modais e dubitativas revelam que o leitor acede apenas às hipóteses e projeções formuladas pela consciência angustiada de G.H., sem confirmação objetiva das intenções reais de Janair."
+    },
+    {
+      "id": "gh-03",
+      "book": "gh",
+      "topic": "Tempo da experiência e tempo da narração",
+      "context": "\"Ontem, no entanto, perdi durante horas e horas a minha montagem humana. Se tiver coragem, eu me deixarei continuar perdida.\"",
+      "page": "p. 7",
+      "stem": "A articulação temporal do trecho permite reconhecer que",
+      "options": [
+        "a narradora distingue o acontecimento anterior de sua reflexão presente e considera os efeitos da experiência, mantendo em aberto sua disposição para continuar transformando-se.",
+        "a narradora apresenta a perda da identidade como um acontecimento futuro, antecipando com segurança a experiência que dará origem ao relato presente.",
+        "o passado vivido e o presente da narração coincidem integralmente, pois a primeira pessoa elimina a distância entre experimentar a crise e tentar compreendê-la.",
+        "a referência ao dia anterior assegura o encerramento da transformação, enquanto a condição final se refere apenas à decisão de comunicar uma conclusão já alcançada.",
+        "a duração em horas organiza uma sequência objetiva dos acontecimentos, subordinando as dúvidas da narradora à recomposição precisa de uma cronologia exterior."
+      ],
+      "answer": 0,
+      "explanation": "O advérbio \"Ontem\" situa o evento no tempo passado vivido, enquanto o presente do relato reflete sobre os impactos da crise e projeta, de forma condicional e aberta (\"Se tiver coragem\"), a continuidade dessa despersonalização."
+    },
+    {
+      "id": "gh-04",
+      "book": "gh",
+      "topic": "Monólogo interior",
+      "context": "\"Mas como faço agora? Devo ficar com a visão toda, mesmo que isso signifique ter uma verdade incompreensível? ou dou uma forma ao nada [...]?\"",
+      "page": "p. 8",
+      "stem": "O trecho favorece a identificação do monólogo interior porque",
+      "options": [
+        "reproduz uma conversa efetiva com um interlocutor presente, cujas respostas permitem à narradora decidir entre conservar a experiência e explicá-la.",
+        "ordena retrospectivamente as decisões da personagem, substituindo suas hesitações por uma conclusão que a voz narrativa já considera definitiva.",
+        "expõe uma observação externa das atitudes de G.H., inferindo por seus gestos o conflito que ela não consegue formular em palavras para si mesma.",
+        "apresenta perguntas dirigidas a si mesma e alternativas formuladas pela personagem, tornando acessível seu debate sobre maneiras de lidar com a experiência.",
+        "registra associações sem qualquer elaboração interrogativa, afastando do discurso da personagem a discussão consciente das alternativas que se apresentam."
+      ],
+      "answer": 3,
+      "explanation": "A sucessão de interrogações e dilemas expressa o fluxo reflexivo e silencioso da personagem a debater intimamente as formas possíveis de assimilar o choque da experiência."
+    },
+    {
+      "id": "gh-05",
+      "book": "gh",
+      "topic": "Fluxo da consciência",
+      "context": "\"A barata é pura sedução. Cílios, cílios pestanejando que chamam.\" [...] também eu tinha milhares de cílios pestanejando, e com meus cílios eu avanço, eu protozoária, proteína pura.\"",
+      "page": "p. 46",
+      "stem": "O movimento associativo dessas passagens constrói-se pela",
+      "options": [
+        "passagem da percepção do inseto à imagem corporal da narradora, acompanhada de repetição e condensação sintática, aproximando a consciência de si da matéria viva.",
+        "progressão de uma descrição científica do inseto para a classificação biológica da narradora, mantendo entre ambas uma separação objetiva e estável.",
+        "alternância entre duas consciências autônomas, pela qual o pensamento da barata passa a responder às reflexões da narradora em um diálogo interior.",
+        "reconstituição linear de ações sucessivas, em que a repetição dos cílios estabelece a ordem cronológica do encontro e esclarece suas causas externas.",
+        "substituição da imagem inicial por uma explicação moral, na qual a narradora preserva sua superioridade humana ao reconhecer o caráter inferior do inseto."
+      ],
+      "answer": 0,
+      "explanation": "A observação do inseto desdobra-se na identificação da própria narradora com traços da barata, utilizando anáforas e sínteses nominais que aproximam a sua consciência da matéria viva primordial."
+    },
+    {
+      "id": "gh-06",
+      "book": "gh",
+      "topic": "Relação entre os procedimentos",
+      "context": "\"Quem sabe nada me aconteceu? Só posso compreender o que me acontece mas só acontece o que eu compreendo [...] Quem sabe me aconteceu apenas uma lenta e grande dissolução?\"",
+      "page": "p. 8",
+      "stem": "A análise dos procedimentos narrativos presentes no trecho permite afirmar que",
+      "options": [
+        "o monólogo interior exclui o movimento associativo, pois a presença de perguntas demonstra que a personagem controla integralmente os sentidos do vivido.",
+        "as reformulações corrigem definitivamente as hipóteses anteriores, conduzindo a consciência da narradora a uma conclusão objetiva sobre a natureza da experiência.",
+        "o fluxo da consciência depende da ausência de reflexão verbalizada, motivo pelo qual o trecho apresenta apenas uma explicação retrospectiva dos acontecimentos.",
+        "as perguntas pressupõem respostas de uma personagem exterior, cuja intervenção organiza o raciocínio de G.H. e transforma a passagem em diálogo dramático.",
+        "as perguntas e as reformulações aproximam o leitor de uma consciência que examina o vivido, permitindo que o monólogo interior também realize um movimento associativo."
+      ],
+      "answer": 4,
+      "explanation": "O monólogo analítico entrelaça-se com a livre associação de ideias, formulando perguntas e paradoxos sucessivos que mostram a consciência a tatear hipóteses sobre o ocorrido."
+    },
+    {
+      "id": "gh-07",
+      "book": "gh",
+      "topic": "Limites do relato",
+      "context": "\"Não confio no que me aconteceu. Aconteceu-me alguma coisa que eu, pelo fato de não saber como viver, vivi uma outra?\"",
+      "page": "p. 6",
+      "stem": "A dúvida formulada por G.H. evidencia",
+      "options": [
+        "a intenção deliberada de enganar o destinatário, já que toda declaração de desconhecimento comprova que uma narradora oculta os acontecimentos que presenciou.",
+        "a certeza de que o acontecimento não ocorreu, convertendo a experiência narrada em fantasia reconhecida e resolvendo a tensão entre memória e interpretação.",
+        "a superação da crise no momento de narrar, quando a distância temporal permite distinguir com segurança a experiência real de uma interpretação equivocada.",
+        "a dificuldade de reconhecer e interpretar a experiência, expondo a instabilidade de sua compreensão e exigindo outros indícios para discutir a confiabilidade do relato.",
+        "a impossibilidade de qualquer acesso ao mundo narrado, pois uma perspectiva subjetiva elimina o valor de todos os acontecimentos e percepções apresentados."
+      ],
+      "answer": 3,
+      "explanation": "A confissão de desconfiança (\"Não confio no que me aconteceu\") sinaliza os limites cognitivos da narradora perante uma experiência que desborda o seu entendimento usual, problematizando a certeza e a estabilidade do relato."
+    },
+    {
+      "id": "gh-08",
+      "book": "gh",
+      "topic": "Metalinguagem",
+      "context": "\"A realidade é a matéria-prima, a linguagem é o modo como vou buscá-la — e como não acho.\"",
+      "page": "p. 132",
+      "stem": "O caráter metalinguístico da passagem decorre de",
+      "options": [
+        "a narradora examinar a relação entre sua experiência e os meios de expressá-la, reconhecendo na linguagem o instrumento de uma procura que encontra seus limites.",
+        "a narradora distinguir a realidade das palavras para defender a transparência do relato, atribuindo à linguagem a capacidade de reproduzir integralmente o vivido.",
+        "o texto interromper a investigação da experiência e apresentar uma descrição objetiva dos materiais utilizados pela protagonista em sua atividade artística.",
+        "a passagem transformar a dificuldade de expressão em problema exclusivamente individual, sem relacioná-la aos recursos de construção da própria narrativa.",
+        "a reflexão rejeitar a linguagem como via de aproximação do real, apresentando o abandono imediato das palavras como condição anterior a qualquer procura."
+      ],
+      "answer": 0,
+      "explanation": "A reflexão debruça-se sobre a própria linguagem (metalinguagem), apontando a tensão dialética entre a palavra como ferramenta de busca e a sua insuficiência irremediável diante do real inefável."
+    },
+    {
+      "id": "gh-09",
+      "book": "gh",
+      "topic": "Construção metafórica",
+      "context": "\"[...] assim como se eu tivesse perdido uma terceira perna que até então me impossibilitava de andar mas que fazia de mim um tripé estável.\"",
+      "page": "p. 6",
+      "stem": "A imagem da terceira perna apresenta uma ambivalência porque",
+      "options": [
+        "contrapor a fragilidade do apoio anterior à segurança conquistada depois da perda, apresentando a transformação como passagem concluída para uma identidade estável.",
+        "atribuir a dificuldade de movimento a uma insuficiência natural da personagem, cuja superação depende de recuperar o elemento de apoio que ela perdeu.",
+        "associa a organização anterior de G.H. à estabilidade de um apoio e à limitação do movimento, fazendo da perda uma possibilidade inquietante de transformação.",
+        "representar a estabilidade como valor inteiramente positivo e tratar a perda do apoio como desvio que a experiência deverá corrigir ao final do relato.",
+        "separar o apoio material da experiência interior, restringindo a imagem corporal à descrição de um impedimento físico sem repercussões sobre a identidade."
+      ],
+      "answer": 2,
+      "explanation": "A metáfora articula dois polos contrários: a estabilidade artificial conferida pelas convenções sociais burguesas (o \"tripé estável\") e a paralisia vital que ela causava; perder esse esteio provoca angústia, mas liberta a personagem para o movimento e a transformação íntima."
+    },
+    {
+      "id": "gh-11",
+      "book": "gh",
+      "topic": "Interlocução",
+      "context": "\"Esse esforço que farei agora por deixar subir à tona um sentido, qualquer que seja, esse esforço seria facilitado se eu fingisse escrever para alguém.\"",
+      "page": "p. 9",
+      "stem": "A possibilidade de escrever para alguém apresenta o destinatário como",
+      "options": [
+        "uma personagem presente na cena que responde às perguntas da narradora e comprova, por sua participação, a sequência dos acontecimentos recordados.",
+        "um leitor já conhecido cuja interpretação definitiva da experiência substitui a investigação de G.H. e fornece ao relato o sentido que lhe faltava.",
+        "uma figura imaginada cuja presença pode auxiliar a elaboração da experiência e a construção do relato, atribuindo-lhe a função de sustentar uma tentativa de comunicação.",
+        "uma voz exterior que assume o controle da história e transforma a narradora-protagonista em testemunha secundária da experiência que será comunicada.",
+        "um recurso de confirmação documental, pois escrever para alguém garante a correspondência entre a memória da narradora e a realidade dos fatos narrados."
+      ],
+      "answer": 2,
+      "explanation": "O destinatário fictício funciona como um esteio psicológico e retórico indispensável para que a narradora consiga organizar a experiência caótica e sustentar o esforço de interlocução através do texto."
+    },
+    {
+      "id": "gh-12",
+      "book": "gh",
+      "topic": "Encadeamento dos capítulos",
+      "context": "\"Eu chegara ao nada, e o nada era vivo e úmido.\" [...] \"Foi então [...] que [...] foi saindo lenta a matéria da barata que fora esmagada.\"",
+      "page": "p. 46–47",
+      "stem": "A repetição da frase na passagem entre os capítulos",
+      "options": [
+        "delimita episódios independentes e devolve à frase exatamente o mesmo sentido, suspendendo qualquer relação entre a reflexão anterior e a matéria observada.",
+        "corrige a interpretação apresentada no capítulo anterior, substituindo a afirmação sobre o nada pela certeza de que nenhuma vida havia sido encontrada.",
+        "estabelece continuidade entre os segmentos e recoloca a formulação anterior diante do desenvolvimento seguinte, conferindo à retomada novas relações com a matéria observada.",
+        "constitui uma marca exclusivamente gráfica de organização, sem participar da aproximação entre a linguagem abstrata e a experiência material da personagem.",
+        "reinicia o tempo dos acontecimentos a cada segmento, convertendo a repetição da frase em retorno cronológico ao momento anterior ao encontro com o inseto."
+      ],
+      "answer": 2,
+      "explanation": "A técnica anafórica de ligar o final de um capítulo ao início do próximo costura os blocos narrativos, ressignificando a sentença original ao confrontá-la diretamente com o surgimento da massa viva do inseto."
+    },
+    {
+      "id": "gh-13",
+      "book": "gh",
+      "topic": "O neutro e a nomeação",
+      "context": "\"Agora aquilo que me apela e me chama é o neutro. Não tenho palavras para exprimir, e falo então em neutro.\"",
+      "page": "p. 120",
+      "stem": "A relação entre as duas afirmações sugere que",
+      "options": [
+        "G.H. reconhece uma experiência que solicita nomeação e admite a dificuldade de exprimi-la, empregando \"neutro\" como termo que procura alcançar o ainda inexprimível.",
+        "o termo escolhido resolve a insuficiência das palavras, permitindo classificar a experiência com precisão e restabelecer as distinções que a crise havia abalado.",
+        "a narradora define uma ausência completa de vida e sensações, empregando o termo para afastar a experiência corporal de sua tentativa de compreensão.",
+        "a nomeação recupera uma identidade individual intacta, fazendo do neutro uma categoria que reafirma a posição humana como medida de toda a existência.",
+        "as duas afirmações se anulam e interrompem a reflexão, pois reconhecer a falta de palavras impede qualquer tentativa posterior de aproximação linguística."
+      ],
+      "answer": 0,
+      "explanation": "O \"neutro\" surge como uma aproximação linguística limítrofe para tentar designar uma realidade amorfa, primordial e pré-conceitual que desborda o léxico usual."
+    },
+    {
+      "id": "gh-14",
+      "book": "gh",
+      "topic": "Deseroização",
+      "context": "\"Não o ato máximo, como antes eu pensara, não o heroísmo e a santidade. Mas enfim o ato ínfimo que sempre me havia faltado. [...] E com o ato ínfimo, eu me havia deseroizado.\"",
+      "page": "p. 134",
+      "stem": "A passagem do \"ato máximo\" ao \"ato ínfimo\" evidencia",
+      "options": [
+        "uma revisão do sentido atribuído à própria experiência e um deslocamento da imagem grandiosa de si, mediante a renúncia à medida heroica com que avaliava seu gesto.",
+        "uma reafirmação da excepcionalidade da protagonista, que passa a considerar o gesto mínimo prova de uma santidade superior à das ações reconhecidas como heroicas.",
+        "uma condenação moral da experiência anterior, cujo sentido se reduz à culpa individual e à necessidade de reparar perante a sociedade uma transgressão.",
+        "uma recuperação da identidade segura que precedia a crise, já que a recusa do heroísmo devolve à narradora o domínio integral de suas ações e palavras.",
+        "uma oposição entre ação e pensamento, pela qual o gesto ínfimo elimina a reflexão sobre o eu e encerra a experiência em uma decisão exclusivamente prática."
+      ],
+      "answer": 0,
+      "explanation": "A transição do \"ato máximo\" para o \"ato ínfimo\" marca a desconstrução de pretensões de santidade ou heroísmo, despindo a personagem da vaidade humana e igualando-a à matéria elementar."
+    },
+    {
+      "id": "gh-15",
+      "book": "gh",
+      "topic": "Voz e silêncio",
+      "context": "\"Ah, mas para se chegar à mudez, que grande esforço da voz.\"",
+      "page": "p. 132",
+      "stem": "A relação paradoxal entre \"mudez\" e \"esforço da voz\" permite compreender que",
+      "options": [
+        "o silêncio representa uma condição anterior e alheia à palavra, de modo que a voz impede o acesso à experiência enquanto insiste em tentar comunicá-la.",
+        "a dificuldade de falar é superada por uma expressão inteiramente adequada, tornando a mudez apenas uma etapa provisória abandonada pela narradora.",
+        "a narradora procura uma relação com o que excede suas palavras e reconhece a insuficiência de dizer, fazendo do silêncio uma possibilidade alcançada pelo trabalho da linguagem.",
+        "a narradora contrapõe uma linguagem sem valor a um silêncio imediatamente disponível, dispensando o percurso de reflexão que constitui o relato.",
+        "o esforço vocal confirma a impossibilidade de qualquer comunicação, levando a narradora a considerar inútil toda tentativa de elaboração da experiência."
+      ],
+      "answer": 2,
+      "explanation": "O silêncio e a mudez não surgem como ausência passiva de linguagem, mas como um limite contemplativo conquistado unicamente através do esgotamento deliberado da palavra."
+    },
+    {
+      "id": "gh-16",
+      "book": "gh",
+      "topic": "Homodiegese e autodiegese",
+      "context": "\"estou procurando, estou procurando. Estou tentando entender. Tentando dar a alguém o que vivi e não sei a quem, mas não quero ficar com o que vivi.\"",
+      "page": "p. 5",
+      "stem": "A relação entre participação e protagonismo permite classificar a narradora como",
+      "options": [
+        "homodiegética, mas não autodiegética, pois a tentativa de compreender o vivido faz de G.H. uma testemunha da experiência protagonizada pelo destinatário.",
+        "autodiegética e, portanto, também homodiegética, pois G.H. participa dos acontecimentos e ocupa o centro da experiência que procura narrar.",
+        "heterodiegética e autodiegética, pois a distância entre o acontecimento e a narração transforma a protagonista em observadora exterior ao universo narrado.",
+        "exclusivamente autodiegética, pois o protagonismo exclui a categoria homodiegética, reservada às personagens que apenas testemunham os acontecimentos.",
+        "homodiegética apenas por empregar a primeira pessoa, já que a relação entre narradora e acontecimentos não interfere na classificação da voz narrativa."
+      ],
+      "answer": 1,
+      "explanation": "Autodiegese é uma modalidade de homodiegese: o narrador participa da história e também a protagoniza. A classificação depende da relação com os acontecimentos, não apenas da pessoa gramatical."
+    },
+    {
+      "id": "gh-17",
+      "book": "gh",
+      "topic": "Focalização interna",
+      "context": "\"Olhei o mural onde eu devia estar sendo retratada... Eu, o Homem. E quanto ao cachorro — seria este o epíteto que ela me dava?\"",
+      "page": "p. 30",
+      "stem": "O acesso do leitor às possíveis intenções de Janair caracteriza uma focalização interna porque",
+      "options": [
+        "a narradora acompanha diretamente a consciência da empregada, embora apresente suas certezas sob formas verbais que sugerem hesitação.",
+        "a cena restringe o relato aos elementos visíveis do mural, excluindo a formulação de hipóteses e o registro das inquietações de quem o observa.",
+        "a diferença social entre as personagens garante à narradora um conhecimento das intenções de Janair que independe das marcas do desenho.",
+        "as intenções da empregada chegam mediadas pelas impressões de G.H., sem que o relato ofereça acesso direto ao pensamento de Janair.",
+        "a narradora alterna igualmente entre as duas consciências, permitindo que cada personagem corrija a interpretação que a outra faz do desenho."
+      ],
+      "answer": 3,
+      "explanation": "Na focalização interna, a informação acompanha o campo perceptivo e cognitivo da personagem. As expressões dubitativas indicam interpretação de G.H., não revelação da consciência de Janair."
+    },
+    {
+      "id": "gh-18",
+      "book": "gh",
+      "topic": "Tempo psicológico",
+      "context": "\"Ontem, no entanto, perdi durante horas e horas a minha montagem humana. Se tiver coragem, eu me deixarei continuar perdida.\"",
+      "page": "p. 7",
+      "stem": "Considerando a dilatação de poucas horas de experiência ao longo do relato, a referência temporal do trecho permite compreender que",
+      "options": [
+        "a duração subjetiva pode ampliar o acontecimento por meio de suas repercussões na consciência, sem eliminar a distinção entre o dia vivido e o presente da narração.",
+        "a duração psicológica corresponde ao número exato de horas indicado pela narradora, estabelecendo uma equivalência estável entre tempo vivido e extensão do relato.",
+        "a presença de um marcador cronológico impede a construção de tempo psicológico, pois toda referência ao dia anterior exige uma sequência narrativa linear.",
+        "a reflexão presente substitui integralmente o acontecimento passado, tornando inadequado distinguir o momento da experiência daquele em que ela é narrada.",
+        "a transformação depende apenas do avanço cronológico dos fatos, enquanto as digressões retardam a narrativa sem participar da experiência temporal da personagem."
+      ],
+      "answer": 0,
+      "explanation": "O tempo psicológico diz respeito à duração subjetiva, ampliada por dúvidas, lembranças e digressões. O marcador “Ontem” mantém a referência cronológica, mas não reduz a experiência à contagem das horas."
+    },
+    {
+      "id": "gh-19",
+      "book": "gh",
+      "topic": "Prosa poética",
+      "context": "\"Ah, mas para se chegar à mudez, que grande esforço da voz.\"",
+      "page": "p. 132",
+      "stem": "O trabalho da linguagem nessa passagem aproxima o romance da prosa poética porque",
+      "options": [
+        "a expressão apresenta uma informação direta sobre a fala, evitando que a relação entre voz e silêncio produza sentidos além da descrição de uma dificuldade física.",
+        "a passagem transforma o romance em poema metrificado, pois a presença de uma oposição semântica basta para substituir a organização narrativa pela versificação.",
+        "a associação entre voz e silêncio fixa uma conclusão conceitual unívoca, retirando das palavras a ambiguidade que caracteriza a experiência da narradora.",
+        "o efeito poético depende de afastar a linguagem da crise vivida, fazendo da formulação uma ornamentação sem relação com a investigação conduzida no relato.",
+        "a tensão paradoxal entre voz e mudez concentra sentidos e dá intensidade expressiva à reflexão, integrando a forma de dizer à experiência que se tenta comunicar."
+      ],
+      "answer": 4,
+      "explanation": "A prosa poética articula narrativa e reflexão a imagens, ritmo e paradoxos. A mudez alcançada pelo esforço da voz constitui uma tensão expressiva ligada aos limites da linguagem, sem exigir versos."
+    },
+    {
+      "id": "gh-20",
+      "book": "gh",
+      "topic": "Arquitetura narrativa",
+      "context": "\"Eu chegara ao nada, e o nada era vivo e úmido.\" [...] \"Foi então [...] que [...] foi saindo lenta a matéria da barata que fora esmagada.\"",
+      "page": "p. 46–47",
+      "stem": "Na organização do romance em 33 capítulos sem títulos ou numeração, a retomada exemplificada permite reconhecer que",
+      "options": [
+        "a ausência de títulos torna os capítulos intercambiáveis, enquanto a frase repetida oferece um resumo estável que dispensa a leitura do segmento anterior.",
+        "a repetição substitui qualquer desenvolvimento entre os capítulos, de modo que a matéria da barata apenas confirma uma imagem cujo sentido permanece inalterado.",
+        "o vínculo entre fim e começo mantém a continuidade da procura, enquanto o novo desenvolvimento desloca as relações de sentido da frase retomada.",
+        "cada capítulo reconstrói o mesmo instante desde uma consciência diferente, e a frase comum indica a alternância entre narradores de igual participação.",
+        "o recurso estabelece uma sequência de episódios autônomos, cujos encerramentos resolvem as dúvidas antes que uma nova investigação seja iniciada."
+      ],
+      "answer": 2,
+      "explanation": "O romance tem 33 capítulos sem títulos ou numeração, encadeados pela retomada de frases. A continuidade formal não equivale à repetição imóvel: a matéria que emerge modifica as relações da formulação anterior."
+    },
+    {
+      "id": "gh-21",
+      "book": "gh",
+      "topic": "Despersonalização",
+      "context": "\"[...] assim como se eu tivesse perdido uma terceira perna que até então me impossibilitava de andar mas que fazia de mim um tripé estável.\"",
+      "page": "p. 6",
+      "stem": "Lida em relação à crise da identidade de G.H., a perda figurada no trecho aproxima-se da despersonalização porque",
+      "options": [
+        "confirma que a protagonista não possuía uma identidade anterior, tratando sua experiência como aquisição gradual de convenções que lhe darão estabilidade.",
+        "abala os apoios que organizavam o eu e permite questionar sua posição como centro da experiência, sem reduzir esse processo literário a um diagnóstico clínico.",
+        "atribui a transformação a uma incapacidade física permanente, substituindo a investigação da identidade por uma explicação literal da imagem corporal.",
+        "conduz à afirmação de um eu inteiramente autossuficiente, cuja liberdade depende de negar qualquer vínculo com a vida que ultrapassa a individualidade.",
+        "preserva as convenções que sustentavam a personagem, deslocando para o mundo exterior toda a instabilidade que a narradora associa à perda do apoio."
+      ],
+      "answer": 1,
+      "explanation": "A despersonalização põe em crise a identidade individual como centro e medida do mundo. A metáfora do apoio perdido participa desse desmonte, um processo literário e filosófico."
+    },
+    {
+      "id": "gh-22",
+      "book": "gh",
+      "topic": "Confiabilidade narrativa",
+      "context": "\"Não confio no que me aconteceu. Aconteceu-me alguma coisa que eu, pelo fato de não saber como viver, vivi uma outra?\"",
+      "page": "p. 6",
+      "stem": "Ao avaliar a confiabilidade dessa voz, a declaração de desconfiança exige que o leitor",
+      "options": [
+        "identifique imediatamente uma fraude intencional, pois a hesitação de uma narradora-protagonista comprova a falsidade dos acontecimentos que ela relata.",
+        "adote integralmente a interpretação apresentada, pois reconhecer os próprios limites garante que todas as percepções da narradora correspondam aos fatos.",
+        "desconsidere a perspectiva da personagem e estabeleça a verdade por meio de uma voz exterior que o trecho apresenta como responsável pela narração.",
+        "distinga limitação do saber e distorção do relato, procurando outros indícios antes de concluir que a dúvida constitui prova de falta de confiabilidade.",
+        "considere a primeira pessoa incompatível com qualquer relato confiável, independentemente das contradições e dos procedimentos presentes na narrativa."
+      ],
+      "answer": 3,
+      "explanation": "Uma perspectiva limitada não basta para classificar uma narradora como não confiável. É necessário examinar distorções, contradições e outros indícios; aqui, a dúvida explicita a dificuldade de compreender o vivido."
+    },
+    {
+      "id": "gh-23",
+      "book": "gh",
+      "topic": "Travessões e minúscula iniciais",
+      "context": "\"— — — — — — estou procurando, estou procurando.\"",
+      "page": "p. 5",
+      "stem": "A combinação entre os travessões e a minúscula na abertura sugere que",
+      "options": [
+        "a narrativa se apresenta como continuação de uma procura já em curso, associando a suspensão inicial à dificuldade de dar forma verbal à experiência.",
+        "os sinais separam falas de interlocutores identificados, enquanto a minúscula registra a resposta de G.H. a uma pergunta explicitamente formulada antes.",
+        "a abertura anuncia uma experiência plenamente encerrada, cuja narração começará apenas quando o gerúndio for substituído por uma forma verbal conclusiva.",
+        "a sequência gráfica indica a supressão de informações documentais, recuperadas depois por uma voz que conhece objetivamente a totalidade dos acontecimentos.",
+        "a procura se limita a encontrar um objeto material perdido, e os sinais iniciais delimitam uma pausa sem relação com a construção do sentido do relato."
+      ],
+      "answer": 0,
+      "explanation": "Os travessões sugerem suspensão e um silêncio anterior à fala; a minúscula faz a frase parecer continuação de algo já iniciado. A repetição e o gerúndio prolongam uma busca de compreensão e de palavras."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "gh-f01",
+      "book": "gh",
+      "tag": "Voz narrativa",
+      "front": "O que é um narrador autodiegético?",
+      "back": "É o narrador que participa como protagonista da história que conta, sendo um caso específico de narrador homodiegético. G.H. narra a própria experiência; Bento Santiago, de Dom Casmurro, também exemplifica a autodiegese."
+    },
+    {
+      "id": "gh-f02",
+      "book": "gh",
+      "tag": "Voz narrativa",
+      "front": "O que é um narrador homodiegético?",
+      "back": "É aquele que participa como personagem do universo narrado, como protagonista ou testemunha. Dr. Watson, nas histórias de Sherlock Holmes, é exemplo de narrador participante que testemunha a trajetória de outro protagonista."
+    },
+    {
+      "id": "gh-f03",
+      "book": "gh",
+      "tag": "Voz narrativa",
+      "front": "O que é um narrador heterodiegético?",
+      "back": "É uma voz que não participa dos acontecimentos como personagem e narra a história de outros. Exemplo: o narrador de O Cortiço, de Aluísio Azevedo."
+    },
+    {
+      "id": "gh-f04",
+      "book": "gh",
+      "tag": "Voz narrativa",
+      "front": "Autodiegese e homodiegese se excluem?",
+      "back": "Não. Toda narração autodiegética é também homodiegética, mas nem todo narrador homodiegético é protagonista. A primeira pessoa, isoladamente, não define essa relação com a história."
+    },
+    {
+      "id": "gh-f05",
+      "book": "gh",
+      "tag": "Narratologia",
+      "front": "O que significa diegese?",
+      "back": "É a história ou o universo narrado. A classificação de uma voz como homo-, auto- ou heterodiegética depende de sua participação nesse universo e de sua posição nos acontecimentos."
+    },
+    {
+      "id": "gh-f06",
+      "book": "gh",
+      "tag": "Focalização",
+      "front": "O que é focalização interna em G.H.?",
+      "back": "O mundo narrado chega pela percepção e pelo saber de G.H. A narradora conhece suas sensações e interpreta os outros, mas não dispõe, por isso, de acesso direto às consciências deles."
+    },
+    {
+      "id": "gh-f07",
+      "book": "gh",
+      "tag": "Focalização",
+      "front": "Qual é a diferença entre voz narrativa e focalização?",
+      "back": "A voz diz respeito a quem narra e à sua relação com a história; a focalização diz respeito à perspectiva e ao acesso à informação. G.H. é narradora autodiegética, e o mundo chega ao leitor mediado por sua percepção."
+    },
+    {
+      "id": "gh-f08",
+      "book": "gh",
+      "tag": "Consciência",
+      "front": "O que é fluxo da consciência?",
+      "back": "É a representação do pensamento em movimento, por associações entre sensações, lembranças e hipóteses. Em G.H., repetições, perguntas, correções e passagens da percepção da barata à percepção de si tornam esse movimento visível."
+    },
+    {
+      "id": "gh-f09",
+      "book": "gh",
+      "tag": "Consciência",
+      "front": "O que é monólogo interior?",
+      "back": "É a apresentação do discurso interior de uma personagem, com suas perguntas e dilemas. Em G.H., essa reflexão também pode buscar um “tu” imaginado que a ajude a sustentar a tentativa de narrar."
+    },
+    {
+      "id": "gh-f10",
+      "book": "gh",
+      "tag": "Consciência",
+      "front": "Monólogo interior e fluxo da consciência podem coexistir?",
+      "back": "Sim. O debate interior pode se desenvolver por associações, reformulações e paradoxos. As perguntas sobre o que aconteceu a G.H. mostram que reflexão analítica e pensamento associativo não são procedimentos necessariamente excludentes."
+    },
+    {
+      "id": "gh-f11",
+      "book": "gh",
+      "tag": "Tempo",
+      "front": "O que é tempo psicológico?",
+      "back": "É a duração vivida subjetivamente, que não corresponde de modo uniforme ao tempo do relógio. Poucas horas da experiência de G.H. se alongam em muitas páginas porque o relato acompanha suas repercussões na consciência."
+    },
+    {
+      "id": "gh-f12",
+      "book": "gh",
+      "tag": "Tempo",
+      "front": "Como distinguir tempo da experiência e tempo da narração?",
+      "back": "O tempo da experiência corresponde ao acontecimento vivido; o da narração, ao momento em que ele é contado. Em G.H., “Ontem” situa a crise no dia anterior, enquanto o presente da narração ainda procura compreendê-la."
+    },
+    {
+      "id": "gh-f13",
+      "book": "gh",
+      "tag": "Linguagem",
+      "front": "O que é metalinguagem no romance?",
+      "back": "É a reflexão da narrativa sobre a própria linguagem e seus limites. Ao dizer que a linguagem é o modo de buscar a realidade e de não encontrá-la, G.H. torna a dificuldade de expressão parte do que narra."
+    },
+    {
+      "id": "gh-f14",
+      "book": "gh",
+      "tag": "Confiabilidade",
+      "front": "Uma perspectiva limitada torna a narradora automaticamente não confiável?",
+      "back": "Não. Limitação de saber não equivale, por si só, a distorção ou mentira; é preciso examinar outros indícios e contradições. Em G.H., as dúvidas explicitam a dificuldade de reconhecer e interpretar a experiência."
+    },
+    {
+      "id": "gh-f15",
+      "book": "gh",
+      "tag": "Forma",
+      "front": "O que caracteriza a prosa poética de G.H.?",
+      "back": "A articulação de narrativa e reflexão com ritmo, imagens e paradoxos. Formulações como a mudez alcançada pelo esforço da voz produzem sentidos ligados à experiência, para além da informação direta."
+    },
+    {
+      "id": "gh-f16",
+      "book": "gh",
+      "tag": "Forma",
+      "front": "Como se encadeiam os 33 capítulos?",
+      "back": "O romance tem 33 capítulos sem títulos ou numeração. Frases que encerram capítulos reaparecem na abertura dos seguintes, criando continuidade e novas relações de sentido a cada retomada."
+    },
+    {
+      "id": "gh-f17",
+      "book": "gh",
+      "tag": "Abertura",
+      "front": "O que sugerem os travessões e a minúscula iniciais?",
+      "back": "Os travessões suspendem o começo e sugerem um silêncio anterior à fala. A minúscula faz a frase parecer continuação de algo iniciado antes, aproximando o leitor de um pensamento em curso."
+    },
+    {
+      "id": "gh-f18",
+      "book": "gh",
+      "tag": "Identidade",
+      "front": "O que é o neutro em G.H.?",
+      "back": "É uma aproximação verbal da vida impessoal, primordial e anterior às classificações humanas. O termo não resolve a dificuldade de dizer: procura nomear aquilo que excede os conceitos disponíveis à narradora."
+    },
+    {
+      "id": "gh-f19",
+      "book": "gh",
+      "tag": "Identidade",
+      "front": "O que é despersonalização no romance?",
+      "back": "É o abalo da identidade individual como centro e medida de tudo, permitindo a G.H. reconhecer-se participante de uma vida mais ampla. Trata-se de um processo literário e filosófico, não de um diagnóstico clínico."
+    },
+    {
+      "id": "gh-f20",
+      "book": "gh",
+      "tag": "Identidade",
+      "front": "O que é deseroização?",
+      "back": "É o abandono da pretensão de grandeza, heroísmo e domínio do próprio eu. A passagem do “ato máximo” ao “ato ínfimo” revê a imagem grandiosa que G.H. atribuía à sua experiência."
+    },
+    {
+      "id": "gh-f21",
+      "book": "gh",
+      "tag": "Janair",
+      "front": "Como interpretar o possível ódio de Janair?",
+      "back": "Como uma hipótese de G.H., não como intenção objetivamente confirmada da empregada. As expressões “devia estar” e “seria” mostram que a narradora interpreta o mural a partir de sua inquietação."
+    },
+    {
+      "id": "gh-f22",
+      "book": "gh",
+      "tag": "Mural",
+      "front": "Que função o mural assume na leitura de G.H.?",
+      "back": "O desenho provoca a interpretação de G.H. sobre como Janair poderia vê-la. A narradora se supõe retratada e interroga o sentido do cachorro, mas sua leitura não garante o significado pretendido por Janair."
+    },
+    {
+      "id": "gh-f23",
+      "book": "gh",
+      "tag": "Barata",
+      "front": "Como a barata participa da crise da personagem?",
+      "back": "O encontro e o contato com sua matéria abalam a posição do humano como medida de toda a vida. A aproximação entre o corpo do inseto e o de G.H. tensiona a identidade individual e a relação com a vida impessoal."
+    },
+    {
+      "id": "gh-f24",
+      "book": "gh",
+      "tag": "Interlocução",
+      "front": "Para que serve o destinatário imaginado?",
+      "back": "Fingir escrever para alguém ajuda G.H. a elaborar a experiência e sustentar a comunicação. A mão ou o “tu” imaginado não precisa corresponder a uma personagem que efetivamente responda ao relato."
+    },
+    {
+      "id": "gh-f25",
+      "book": "gh",
+      "tag": "Metáfora",
+      "front": "Qual é a ambivalência da terceira perna?",
+      "back": "Ela dava estabilidade à identidade anterior, mas também impedia o movimento. Perdê-la produz desorientação e, ao mesmo tempo, abre uma possibilidade inquietante de transformação, em vez de representar apenas uma falta negativa."
+    }
+  ]
+}
