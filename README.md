@@ -1,6 +1,6 @@
 # Estante — estudo de literatura
 
-Quiz, flashcards e resumos das obras da prova: *A Paixão Segundo G.H.*, *A visão das plantas*, *Almas Mortas* (cap. I) e *O Ateneu* (cap. I).
+Quiz, flashcards e resumos do capítulo 1 das obras da prova: *A Paixão Segundo G.H.* (pp. 5–16), *A visão das plantas* (abertura, pp. 8–20), *Almas Mortas* e *O Ateneu*.
 
 https://literatura.duds.dev
 
