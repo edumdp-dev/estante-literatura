@@ -40,8 +40,11 @@ export type Book = {
   logline: string
   bullets: string[]
   concepts: string[]
-  extra?: { label: string; href: string }
+  facts: { icon: FactIcon; label: string; value: string }[]
+  materials: { label: string; href: string; kind: 'pdf' | 'image' | 'text' }[]
 }
+
+export type FactIcon = 'year' | 'place' | 'genre' | 'narrator' | 'setting' | 'time' | 'hero' | 'scope'
 
 export const BOOKS: Book[] = [
   {
@@ -52,7 +55,7 @@ export const BOOKS: Book[] = [
     year: 1964,
     origin: 'Brasil',
     movement: 'Romance introspectivo · Modernismo (3ª geração)',
-    scope: 'Obra inteira',
+    scope: 'Atividade da professora',
     cover: '/img/cover-gh.webp',
     art: '/img/art-gh.webp',
     accent: 'var(--color-gh)',
@@ -65,7 +68,22 @@ export const BOOKS: Book[] = [
       'A fala se apoia num “tu” imaginado (a mão que ela segura) e avança por perguntas, paradoxos, metalinguagem e fluxo da consciência.',
       'Os 33 capítulos se encadeiam: a frase que fecha um abre o seguinte. O percurso leva ao neutro, à despersonalização e à deseroização.',
     ],
-    concepts: ['Autodiegese', 'Focalização interna', 'Monólogo interior', 'Tempo psicológico', 'Metalinguagem', 'O neutro', 'Deseroização'],
+    facts: [
+      { icon: 'year', label: 'Publicação', value: '1964' },
+      { icon: 'place', label: 'País', value: 'Brasil' },
+      { icon: 'genre', label: 'Gênero', value: 'Romance introspectivo' },
+      { icon: 'narrator', label: 'Narrador', value: 'Autodiegético, 1ª pessoa' },
+      { icon: 'hero', label: 'Protagonista', value: 'G.H., escultora' },
+      { icon: 'setting', label: 'Espaço', value: 'Quarto da empregada, cobertura no Rio' },
+      { icon: 'time', label: 'Tempo', value: 'Poucas horas, narradas no dia seguinte' },
+      { icon: 'scope', label: 'Recorte', value: 'Atividade da professora' },
+    ],
+    materials: [
+      { label: 'Atividade: perguntas e respostas', href: '/materiais/gh-atividade-perguntas.txt', kind: 'text' },
+      { label: 'Slides: conceitos literários', href: '/materiais/gh-conceitos.pdf', kind: 'pdf' },
+      { label: 'Slides: abertura e voz narrativa', href: '/materiais/gh-abertura.pdf', kind: 'pdf' },
+    ],
+    concepts: ['Autodiegese', 'Focalização interna', 'Monólogo interior', 'Tempo psicológico', 'Metalinguagem', 'Neutro', 'Deseroização'],
   },
   {
     id: 'visao',
@@ -88,8 +106,21 @@ export const BOOKS: Book[] = [
       'Com a velhice vêm cegueira, delírios e aparições (a menina holandesa, a velha mulher negra); o jardim vira “jardineiro do jardineiro”.',
       'Celestino morre “sem uma dúvida na consciência tranquila”; o padre lê o jardim como uma “aleluia”. O julgamento fica com o leitor.',
     ],
+    facts: [
+      { icon: 'year', label: 'Publicação', value: '2019 · ed. brasileira 2021' },
+      { icon: 'place', label: 'País', value: 'Portugal' },
+      { icon: 'genre', label: 'Gênero', value: 'Romance contemporâneo' },
+      { icon: 'narrator', label: 'Narrador', value: 'Heterodiegético, 3ª pessoa' },
+      { icon: 'hero', label: 'Protagonista', value: 'Capitão Celestino' },
+      { icon: 'setting', label: 'Espaço', value: 'Casa e jardim numa vila junto ao mar' },
+      { icon: 'time', label: 'Tempo', value: 'Velhice e morte, com analepses' },
+      { icon: 'scope', label: 'Recorte', value: 'Obra inteira (resumo e mapa)' },
+    ],
+    materials: [
+      { label: 'Resumo e análise da obra', href: '/materiais/visao-resumo.pdf', kind: 'pdf' },
+      { label: 'Mapa mental', href: '/materiais/visao-mapa-mental.png', kind: 'image' },
+    ],
     concepts: ['Heterodiegese', 'Analepse', 'Personificação', 'Antítese água/cal', 'Memória colonial', '“Sangue e luz”'],
-    extra: { label: 'Mapa mental da obra', href: '/img/mapa-visao.webp' },
   },
   {
     id: 'almas',
@@ -112,6 +143,17 @@ export const BOOKS: Book[] = [
       'No sarau, os fraques negros revoluteiam “como moscas”; ele observa gordos e magros e se aproxima de Manilov e Sobakevich depois de saber quantos servos têm.',
       'Fala pouco de si, adapta a conversa a cada interlocutor e é aprovado por todos — até a última frase anunciar algo que abalará essa imagem.',
     ],
+    facts: [
+      { icon: 'year', label: 'Publicação', value: '1842' },
+      { icon: 'place', label: 'País', value: 'Rússia' },
+      { icon: 'genre', label: 'Gênero', value: 'Romance satírico' },
+      { icon: 'narrator', label: 'Narrador', value: 'Heterodiegético, intruso e irônico' },
+      { icon: 'hero', label: 'Protagonista', value: 'Tchichikov' },
+      { icon: 'setting', label: 'Espaço', value: 'Cidade de província, hospedaria, saraus' },
+      { icon: 'time', label: 'Tempo', value: 'Primeiros dias na cidade' },
+      { icon: 'scope', label: 'Recorte', value: 'Capítulo I' },
+    ],
+    materials: [{ label: 'Roteiro de leitura do capítulo I', href: '/materiais/almas-roteiro-cap1.pdf', kind: 'pdf' }],
     concepts: ['Ironia', 'Narrador intruso', 'Grotesco', 'Contraste', 'Sátira social', 'Servos (“almas”)'],
   },
   {
@@ -122,7 +164,7 @@ export const BOOKS: Book[] = [
     year: 1888,
     origin: 'Brasil',
     movement: 'Realismo · impressionismo · romance de memórias',
-    scope: 'Capítulo I (degustação)',
+    scope: 'Capítulo I',
     cover: '/img/cover-ateneu.webp',
     art: '/img/art-ateneu.webp',
     accent: 'var(--color-ateneu)',
@@ -135,6 +177,17 @@ export const BOOKS: Book[] = [
       'Aristarco surge autoritário e vaidoso; festas, ginástica e a presença da princesa unem espetáculo, disciplina e hierarquia em prosa impressionista.',
       'Na matrícula, D. Ema e o corte dos cachos marcam a despedida da infância; o capítulo fecha com Aristarco como “homem sanduíche” da educação nacional.',
     ],
+    facts: [
+      { icon: 'year', label: 'Publicação', value: '1888' },
+      { icon: 'place', label: 'País', value: 'Brasil' },
+      { icon: 'genre', label: 'Gênero', value: 'Romance de memórias' },
+      { icon: 'narrator', label: 'Narrador', value: 'Autodiegético, Sérgio adulto' },
+      { icon: 'hero', label: 'Protagonista', value: 'Sérgio, aos onze anos' },
+      { icon: 'setting', label: 'Espaço', value: 'Internato Ateneu, Rio de Janeiro' },
+      { icon: 'time', label: 'Tempo', value: 'Memória da entrada no colégio' },
+      { icon: 'scope', label: 'Recorte', value: 'Capítulo I' },
+    ],
+    materials: [],
     concepts: ['Autodiegese', 'Memória retrospectiva', 'Ironia', 'Impressionismo', 'Crítica institucional', 'Caricatura'],
   },
 ]

@@ -407,6 +407,23 @@
       ],
       "answer": 4,
       "explanation": "Manuel oferece ajuda efetiva, mas sua motivação também envolve o desejo de conhecer um pirata. A cena articula essa ambivalência à deterioração da memória e da comunicação de Celestino."
+    },
+    {
+      "id": "visao-25",
+      "book": "visao",
+      "topic": "Personificação da morte",
+      "context": "“Foi assim que o capitão fez amizade com a morte sem saber que o fazia, sem julgar que a chamava.”",
+      "page": "p. 71",
+      "stem": "Considerando as visitas da velha mulher negra que serve, banha e acompanha Celestino, o trecho permite reconhecer que",
+      "options": [
+        "a morte é apresentada como castigo explícito imposto ao capitão, pois a mulher surge para cobrar dele a confissão dos crimes e a reparação das vítimas",
+        "a figura da mulher é uma personagem real da vila, cuja presença o narrador confirma objetivamente ao descrever com minúcia seus gestos de cuidado",
+        "a morte se aproxima sob a forma de uma figura de cuidado e consolo, e o narrador sugere um sentido que escapa à consciência do próprio capitão",
+        "o capitão escolhe deliberadamente a própria morte, chamando a mulher como quem planeja o fim e domina inteiramente o sentido de suas visões",
+        "a companhia da mulher revela um amor maternal e apaixonado, que redime Celestino e apaga o passado violento ligado às suas vítimas"
+      ],
+      "answer": 2,
+      "explanation": "A expressão “sem saber que o fazia” indica que o narrador heterodiegético sabe mais que a personagem: a mulher que cuida do velho figura a morte. O próprio texto recusa o consolo “maternal ou apaixonado” e a associa às vítimas, sem transformar a visão em castigo ou redenção explícitos."
     }
   ],
   "flashcards": [

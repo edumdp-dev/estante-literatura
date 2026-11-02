@@ -87,7 +87,7 @@ function Drawer({ onClose }: { onClose: () => void }) {
               {to === '/livros' && (
                 <div className="ml-[21px] mt-1 flex flex-col border-l border-line pl-3">
                   {BOOKS.map((b) => (
-                    <Link key={b.id} to={`/livros#${b.id}`} onClick={onClose} className="flex items-center gap-2.5 py-1.5 text-sm text-soft hover:text-ink">
+                    <Link key={b.id} to={`/livros/${b.id}`} onClick={onClose} className="flex items-center gap-2.5 py-1.5 text-sm text-soft hover:text-ink">
                       <img src={b.cover} alt="" className="h-6 w-4 rounded-[2px] object-cover" />
                       <span className="truncate">{b.title}</span>
                     </Link>

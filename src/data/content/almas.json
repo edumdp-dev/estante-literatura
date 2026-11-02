@@ -339,6 +339,91 @@
       ],
       "answer": 3,
       "explanation": "O encerramento contrapõe à acolhida presente a previsão de um acontecimento perturbador. A antecipação produz expectativa e cautela sem identificar o episódio nem revelar o conteúdo dos capítulos seguintes."
+    },
+    {
+      "id": "almas-21",
+      "book": "almas",
+      "topic": "Identificação e reticência",
+      "context": "\"Pavel Ivanovitch Tchichikov, proprietário rural, viajando para assuntos do seu interesse.\"",
+      "page": "p. 11",
+      "stem": "Considerando as perguntas que Tchichikov havia feito ao criado pouco antes, o bilhete com seus dados produz o efeito de",
+      "options": [
+        "esclarecer oficialmente o objetivo da viagem, pois a menção aos assuntos do viajante permite ao criado e ao leitor identificar o negócio que ele pretende realizar",
+        "revelar uma condição social inferior à que ele aparenta, já que a qualificação de proprietário rural contradiz a cortesia demonstrada diante dos funcionários",
+        "fornecer uma identificação formalmente completa e, ao mesmo tempo, vaga quanto à finalidade da viagem, contrastando com a minúcia das informações que ele próprio recolhe",
+        "confirmar a sinceridade do recém-chegado, porque a apresentação por escrito impede qualquer divergência entre os dados declarados e as versões oferecidas depois na cidade",
+        "demonstrar desinteresse pela vida local, já que o viajante se limita a registrar seu nome sem estabelecer contato com as pessoas que trabalham na hospedaria"
+      ],
+      "answer": 2,
+      "explanation": "O bilhete cumpre as formalidades (nome, condição, motivo), mas a expressão \"assuntos do seu interesse\" nada esclarece. A reticência sobre si contrasta com a insistência com que ele investiga os outros, assimetria que sustenta o suspense do capítulo."
+    },
+    {
+      "id": "almas-22",
+      "book": "almas",
+      "topic": "Minúcia e acumulação",
+      "context": "\"leu todos os nomes, chegou ao preço das poltronas da plateia e até notou que o anúncio provinha da Imprensa Oficial; depois, virou-o e examinou-o pelo lado de trás, mas, não descobrindo aí nada, esfregou os olhos, dobrou o papel e guardou-o no cofrezinho em que costumava arrecadar tudo o que lhe vinha às mãos.\"",
+      "page": "p. 13",
+      "stem": "Depois de o narrador afirmar que o anúncio \"nada tinha de interessante\", a leitura minuciosa feita por Tchichikov contribui para",
+      "options": [
+        "indicar um interesse específico pelo teatro local, que explica por que o viajante passa a frequentar os espetáculos anunciados durante sua permanência na cidade",
+        "demonstrar que o anúncio contém uma mensagem cifrada, cuja descoberta no verso do papel orienta as visitas realizadas pelo viajante na manhã seguinte",
+        "expor a frustração do viajante com a cidade, já que a pobreza do anúncio o leva a abandonar o passeio e a encerrar mais cedo suas observações",
+        "caracterizar com ironia um hábito de exame e de acumulação indiferente ao valor do objeto, compatível com a atenção meticulosa que ele dirige a tudo o que encontra",
+        "criticar a Imprensa Oficial pela divulgação de espetáculos pouco conhecidos, tema que o narrador desenvolve como denúncia direta da administração da província"
+      ],
+      "answer": 3,
+      "explanation": "O desajuste entre a insignificância do papel e o cuidado com que é lido, examinado e guardado gera efeito cômico. O gesto caracteriza indiretamente a personagem: tudo é examinado e arrecadado, como antes as informações pedidas ao criado."
+    },
+    {
+      "id": "almas-23",
+      "book": "almas",
+      "topic": "Familiaridade e desconfiança",
+      "context": "\"Nozdriov tratava também por «tu» o chefe da polícia e o procurador, com quem parecia estar nas melhores relações; porém, quando começou a jogar-se forte, aqueles senhores observavam atentamente as suas paradas, examinando quase todas as cartas que saíam do baralho.\"",
+      "page": "p. 21",
+      "stem": "A conjunção \"porém\", que liga a intimidade aparente de Nozdriov à conduta dos funcionários durante o jogo, evidencia",
+      "options": [
+        "a distância entre a familiaridade exibida no trato e a desconfiança prática dos parceiros, sugerindo sem afirmação explícita que a honestidade de Nozdriov no jogo é posta em dúvida",
+        "a comprovação de que Nozdriov trapaceia nas cartas, fato que o narrador declara abertamente e que motiva o rompimento imediato de suas relações com os funcionários",
+        "a hostilidade de Tchichikov em relação ao novo conhecido, cuja conduta ele denuncia aos funcionários para conquistar a confiança do chefe da polícia e do procurador",
+        "a rigidez das regras do whist na província, que obrigam todos os jogadores a examinar as cartas sempre que as apostas ultrapassam um valor previamente combinado",
+        "a semelhança entre Nozdriov e Tchichikov, ambos apresentados como personagens que tratam todos por «tu» desde o primeiro encontro com as autoridades locais"
+      ],
+      "answer": 0,
+      "explanation": "O \"porém\" contrapõe a intimidade de superfície à vigilância dos parceiros quando o jogo fica sério. O narrador não acusa Nozdriov; deixa que o comportamento dos funcionários sugira a desconfiança, recurso de caracterização indireta."
+    },
+    {
+      "id": "almas-24",
+      "book": "almas",
+      "topic": "Caracterização contrastiva",
+      "context": "\"Manilov, homem ainda não envelhecido de todo, cujos olhos, doces como açúcar, piscavam de cada vez que se ria, afeiçoou-se ao viajante até perder o siso.\" [...] \"Sobakevich, por sua vez, disse-lhe com uns modos lacónicos: «Venha também ver-me, o senhor!» fazendo ranger as suas botas de gigante\"",
+      "page": "p. 21",
+      "stem": "A apresentação sucessiva dos convites de Manilov e de Sobakevich constrói um contraste no qual",
+      "options": [
+        "Manilov é caracterizado pela desconfiança e Sobakevich pela efusividade, inversão que o narrador atribui à diferença de fortuna entre os dois proprietários",
+        "a doçura excessiva e a afeição desmedida de um se opõem à secura verbal e à corpulência do outro, tipificando os proprietários por traços exagerados de modo e de corpo",
+        "os dois proprietários recebem descrição idêntica, pois o narrador pretende demonstrar que a nobreza rural da província forma um grupo sem diferenças individuais",
+        "a sinceridade de Sobakevich é apresentada como modelo moral, em oposição à hipocrisia de Manilov, que o narrador condena por meio de um julgamento explícito",
+        "a recusa de Tchichikov ao convite de Sobakevich revela sua preferência por Manilov, cuja propriedade fica mais próxima da cidade e mais fácil de visitar"
+      ],
+      "answer": 1,
+      "explanation": "A comparação \"doces como açúcar\" e a afeição \"até perder o siso\" exageram a amabilidade de Manilov, enquanto os \"modos lacónicos\" e as \"botas de gigante\" fixam Sobakevich pela rudeza e pela massa corporal. O contraste esboça tipos caricaturais que o romance desenvolverá."
+    },
+    {
+      "id": "almas-25",
+      "book": "almas",
+      "topic": "Anticlímax cômico",
+      "context": "\"— Sabes, coração meu: jantei em casa do chefe da polícia, passei o serão em casa do governador e lá conheci um tal Pavel Ivanovitch Tchichikov, conselheiro de ministério. Que rapaz encantador! Ao que respondeu a esposa: — Hum! — E empurrou-o com um pé.\"",
+      "page": "p. 23",
+      "stem": "Após a série de elogios atribuídos pelas autoridades a Tchichikov, a resposta da esposa de Sobakevich funciona como",
+      "options": [
+        "uma prova de que ela conhece o passado do viajante, antecipando a revelação que provocará a estupefação da cidade anunciada no último parágrafo",
+        "um julgamento moral do narrador, que se vale da personagem feminina para condenar explicitamente a credulidade dos funcionários da província",
+        "uma confirmação entusiasmada do elogio, já que o gesto doméstico expressa a intimidade com que o casal partilha a avaliação positiva do recém-chegado",
+        "uma demonstração de que Sobakevich mente sobre o encontro, pois a esposa sabe que ele não esteve no sarau do governador naquela noite",
+        "um anticlímax doméstico que esvazia o entusiasmo do marido por um gesto banal, rebaixando comicamente a unanimidade das opiniões favoráveis"
+      ],
+      "answer": 4,
+      "explanation": "A gradação de elogios culmina no próprio Sobakevich, avaro em juízos favoráveis, mas a resposta monossilábica e o empurrão da esposa sonolenta desfazem o tom solene. O anticlímax é procedimento típico do humor de Gogol."
     }
   ],
   "flashcards": [

@@ -373,6 +373,57 @@
       ],
       "answer": 0,
       "explanation": "Os travessões sugerem suspensão e um silêncio anterior à fala; a minúscula faz a frase parecer continuação de algo já iniciado. A repetição e o gerúndio prolongam uma busca de compreensão e de palavras."
+    },
+    {
+      "id": "gh-24",
+      "book": "gh",
+      "topic": "Paradoxo e circularidade",
+      "context": "\"Quem sabe nada me aconteceu? Só posso compreender o que me acontece mas só acontece o que eu compreendo [...] Quem sabe me aconteceu apenas uma lenta e grande dissolução?\"",
+      "page": "p. 8",
+      "stem": "A construção cruzada entre \"compreender\" e \"acontecer\" no trecho produz um efeito paradoxal porque",
+      "options": [
+        "estabelece uma ordem causal rigorosa, segundo a qual a narradora primeiro vive o acontecimento e só depois o compreende, eliminando a dúvida inicial sobre o ocorrido.",
+        "faz cada termo depender do outro, sugerindo que a experiência escapa aos limites da compreensão de G.H. e que aquilo que a ultrapassa pode nem ser reconhecido como acontecimento.",
+        "apresenta a compreensão como faculdade dispensável, já que a narradora afirma que os acontecimentos verdadeiros independem inteiramente de qualquer interpretação humana.",
+        "funciona apenas como ornamento sonoro, pois a inversão das palavras repete a mesma ideia sem alterar a relação entre a experiência vivida e o modo de interpretá-la.",
+        "comprova que nada aconteceu a G.H., uma vez que a narradora conclui de modo definitivo que sua experiência foi uma invenção posterior produzida pela própria escrita."
+      ],
+      "answer": 1,
+      "explanation": "A inversão dos termos cria um círculo: só acontece o que se compreende, e só se compreende o que acontece. O paradoxo expõe o limite do entendimento humano diante de uma experiência que o excede, e as perguntas mantêm essa hipótese em aberto."
+    },
+    {
+      "id": "gh-25",
+      "book": "gh",
+      "topic": "Identificação com a matéria viva",
+      "context": "\"A barata é pura sedução. Cílios, cílios pestanejando que chamam.\" [...] também eu tinha milhares de cílios pestanejando, e com meus cílios eu avanço, eu protozoária, proteína pura.\"",
+      "page": "p. 46",
+      "stem": "Relacionada à crise da identidade de G.H., a autodefinição \"eu protozoária, proteína pura\" indica",
+      "options": [
+        "a degradação moral da narradora, punida por ter invadido o quarto da empregada e condenada pelo romance a assumir a forma inferior de um animal repugnante.",
+        "uma metamorfose física literal, na qual o corpo da personagem se transforma efetivamente no do inseto, como ocorre nas narrativas fantásticas tradicionais.",
+        "a recusa definitiva de qualquer semelhança com o inseto, pois a narradora reafirma a superioridade do humano como medida que separa sua vida da matéria observada.",
+        "uma conclusão científica sobre a origem das espécies, apresentada pela narradora como explicação objetiva e já estabelecida antes do encontro com a barata.",
+        "o deslocamento do eu individual para uma vida elementar e impessoal, em que a narradora se reconhece participante da mesma matéria viva que antes a separava do inseto."
+      ],
+      "answer": 4,
+      "explanation": "Ao se nomear como protozoária e proteína, G.H. deixa de tomar a identidade humana como centro e medida e se percebe parte de uma vida mais ampla e impessoal, aproximando-se do neutro. Trata-se de figuração literária e filosófica, não de metamorfose literal nem de punição."
+    },
+    {
+      "id": "gh-26",
+      "book": "gh",
+      "topic": "Narração como construção de sentido",
+      "context": "\"Esse esforço que farei agora por deixar subir à tona um sentido, qualquer que seja, esse esforço seria facilitado se eu fingisse escrever para alguém.\"",
+      "page": "p. 9",
+      "stem": "A expressão \"deixar subir à tona um sentido, qualquer que seja\" mostra que, para G.H., o ato de narrar",
+      "options": [
+        "apenas transcreve uma interpretação já concluída antes da escrita, de modo que o sentido da experiência está fixado e o relato serve somente para comunicá-lo.",
+        "faz do esforço de dizer uma tentativa de produzir sentido, mas cuja finalidade principal é convencer o destinatário de uma lição moral que a narradora já domina.",
+        "procura um significado que ainda não está dado, fazendo da própria escrita parte do processo de elaborar a experiência, sem garantia prévia sobre o resultado.",
+        "dispensa qualquer elaboração, pois o sentido surge espontaneamente sem esforço, como indica a referência a algo que sobe sozinho à superfície da consciência.",
+        "substitui a experiência por uma ficção inventada com o objetivo de ocultar o que aconteceu, pois \"fingisse\" revela a intenção de enganar o leitor do relato."
+      ],
+      "answer": 2,
+      "explanation": "O sentido não preexiste ao relato: deve \"subir à tona\" por meio de um esforço que a narradora aceita sem saber qual será (\"qualquer que seja\"). Narrar prolonga a investigação da experiência; o fingimento do destinatário é um recurso para sustentar essa elaboração, não para enganar."
     }
   ],
   "flashcards": [

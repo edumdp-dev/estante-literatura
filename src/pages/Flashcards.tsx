@@ -1,5 +1,6 @@
 import { ArrowLeft, ArrowRight, Check, Library, RotateCcw, Shuffle, Undo2, X } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
+import { motion } from 'motion/react'
 import { useSearchParams } from 'react-router-dom'
 import { BookPicker, BookTag, Field, Segmented } from '../components/ui'
 import { BOOK, BOOKS, FLASHCARDS, countBy, type BookId } from '../data/books'
@@ -71,36 +72,39 @@ export default function Flashcards() {
   const accent = card ? BOOK[card.book].accent : 'var(--ink)'
 
   return (
-    <div className="rise mx-auto flex max-w-3xl flex-col gap-8">
-      <header className="flex flex-col gap-2">
-        <p className="text-sm text-soft">Flashcards</p>
-        <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Vire, lembre, marque</h1>
-      </header>
+    <div className="rise grid gap-10 lg:grid-cols-[360px_1fr] lg:gap-14">
+      <div className="flex flex-col gap-7 lg:sticky lg:top-24 lg:self-start">
+        <header className="flex flex-col gap-1">
+          <p className="text-sm text-soft">Flashcards</p>
+          <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Vire, lembre, marque</h1>
+        </header>
 
-      <Field label="Obras" icon={<Library className="size-4" />}>
-        <BookPicker selected={books} onToggle={toggle} multi counts={CARD_COUNTS} unit="cartões" />
-      </Field>
+        <Field label="Obras" icon={<Library className="size-4" />}>
+          <BookPicker selected={books} onToggle={toggle} multi counts={CARD_COUNTS} unit="cartões" compact />
+        </Field>
 
-      <div className="flex flex-wrap items-center gap-2">
-        <Segmented
-          label="Filtro"
-          value={filter}
-          onChange={setFilter}
-          options={[
-            { value: 'all', label: 'Todos' },
-            { value: 'todo', label: 'Só os que não sei' },
-          ]}
-        />
-        <button onClick={() => setSeed((s) => s + 1)} className="inline-flex h-9 items-center gap-2 rounded-full border border-line bg-card px-3.5 text-sm text-soft hover:text-ink">
-          <Shuffle className="size-4" /> Embaralhar
-        </button>
-        {known.size > 0 && (
-          <button onClick={() => setKnown(new Set())} className="inline-flex h-9 items-center gap-2 rounded-full border border-line bg-card px-3.5 text-sm text-soft hover:text-ink">
-            <Undo2 className="size-4" /> Zerar progresso
+        <div className="flex flex-wrap items-center gap-2">
+          <Segmented
+            label="Filtro"
+            value={filter}
+            onChange={setFilter}
+            options={[
+              { value: 'all', label: 'Todos' },
+              { value: 'todo', label: 'Só os que não sei' },
+            ]}
+          />
+          <button onClick={() => setSeed((s) => s + 1)} aria-label="Embaralhar" title="Embaralhar" className="inline-flex size-10 items-center justify-center rounded-full border border-line bg-card text-soft hover:text-ink">
+            <Shuffle className="size-4" />
           </button>
-        )}
+          {known.size > 0 && (
+            <button onClick={() => setKnown(new Set())} aria-label="Zerar progresso" title="Zerar progresso" className="inline-flex size-10 items-center justify-center rounded-full border border-line bg-card text-soft hover:text-ink">
+              <Undo2 className="size-4" />
+            </button>
+          )}
+        </div>
       </div>
 
+      <div className="min-w-0">
       {!card ? (
         <div className="flex flex-col items-center gap-3 rounded-3xl border border-dashed border-line p-12 text-center">
           <Check className="size-8 text-emerald-500" />
@@ -155,12 +159,18 @@ export default function Flashcards() {
               <ArrowLeft className="size-5" />
             </button>
             <div className="flex gap-2">
-              <button onClick={() => mark(false)} className="inline-flex h-11 items-center gap-2 rounded-full border border-line bg-card px-5 text-sm font-medium hover:bg-wash">
-                <X className="size-4 text-red-500" /> Não sei
-              </button>
-              <button onClick={() => mark(true)} className="inline-flex h-11 items-center gap-2 rounded-full bg-ink px-5 text-sm font-medium text-paper hover:opacity-90">
-                <Check className="size-4" /> Sei
-              </button>
+              <motion.button whileTap={{ scale: 0.95 }} onClick={() => mark(false)} className="inline-flex h-12 w-36 items-center justify-center gap-2 rounded-full bg-card text-sm font-medium ring-1 ring-line hover:bg-wash">
+                <span className="flex size-5 items-center justify-center rounded-full bg-red-500 text-white">
+                  <X className="size-3" strokeWidth={3} />
+                </span>
+                Não sei
+              </motion.button>
+              <motion.button whileTap={{ scale: 0.95 }} onClick={() => mark(true)} className="inline-flex h-12 w-36 items-center justify-center gap-2 rounded-full bg-card text-sm font-medium ring-1 ring-line hover:bg-wash">
+                <span className="flex size-5 items-center justify-center rounded-full bg-emerald-500 text-white">
+                  <Check className="size-3" strokeWidth={3} />
+                </span>
+                Sei
+              </motion.button>
             </div>
             <button aria-label="Próximo" onClick={() => go(1)} disabled={index >= deck.length - 1} className="inline-flex size-11 items-center justify-center rounded-full border border-line text-soft hover:text-ink disabled:opacity-30">
               <ArrowRight className="size-5" />
@@ -168,6 +178,7 @@ export default function Flashcards() {
           </div>
         </section>
       )}
+      </div>
     </div>
   )
 }

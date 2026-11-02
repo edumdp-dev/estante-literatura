@@ -1,5 +1,6 @@
 import { Link, Route, Routes } from 'react-router-dom'
 import { Layout } from './components/Layout'
+import BookDetail from './pages/BookDetail'
 import Books from './pages/Books'
 import Flashcards from './pages/Flashcards'
 import Landing from './pages/Landing'
@@ -11,6 +12,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/livros" element={<Books />} />
+        <Route path="/livros/:id" element={<BookDetail />} />
         <Route path="/quiz" element={<Quiz />} />
         <Route path="/flashcards" element={<Flashcards />} />
         <Route

@@ -62,15 +62,17 @@ export function BookPicker({
   multi,
   counts,
   unit,
+  compact = false,
 }: {
   selected: BookId[]
   onToggle: (id: BookId) => void
   multi: boolean
   counts: Record<BookId, number>
   unit: string
+  compact?: boolean
 }) {
   return (
-    <div role={multi ? 'group' : 'radiogroup'} className="grid grid-cols-2 gap-2.5 md:grid-cols-4">
+    <div role={multi ? 'group' : 'radiogroup'} className={`grid grid-cols-2 gap-2.5 ${compact ? 'md:grid-cols-4 lg:grid-cols-2' : 'md:grid-cols-4'}`}>
       {BOOKS.map((b) => {
         const on = selected.includes(b.id)
         return (
@@ -124,5 +126,63 @@ export function BookTag({ id }: { id: BookId }) {
       <span className="size-1.5 rounded-full" style={{ background: b.accent }} />
       {b.title}
     </span>
+  )
+}
+
+export function Slider({
+  value,
+  min,
+  max,
+  step = 1,
+  onChange,
+  label,
+  format,
+}: {
+  value: number
+  min: number
+  max: number
+  step?: number
+  onChange: (v: number) => void
+  label: string
+  format: (v: number) => string
+}) {
+  const pct = max === min ? 100 : ((value - min) / (max - min)) * 100
+  return (
+    <div className="flex items-center gap-4">
+      <input
+        type="range"
+        aria-label={label}
+        min={min}
+        max={max}
+        step={step}
+        value={value}
+        onChange={(e) => onChange(Number(e.target.value))}
+        className="range flex-1"
+        style={{ background: `linear-gradient(to right, var(--ink) ${pct}%, var(--line) ${pct}%)` }}
+      />
+      <span className="w-20 text-right text-sm font-medium tabular-nums">{format(value)}</span>
+    </div>
+  )
+}
+
+export function Switch({ checked, onChange, label, disabled }: { checked: boolean; onChange: (v: boolean) => void; label: string; disabled?: boolean }) {
+  return (
+    <label className={`flex items-center justify-between gap-4 text-[15px] ${disabled ? 'opacity-45' : 'cursor-pointer'}`}>
+      {label}
+      <button
+        type="button"
+        role="switch"
+        aria-checked={checked}
+        disabled={disabled}
+        onClick={() => onChange(!checked)}
+        className={`relative h-6 w-10 shrink-0 rounded-full transition-colors ${checked ? 'bg-ink' : 'bg-line'}`}
+      >
+        <motion.span
+          className="absolute top-0.5 left-0.5 size-5 rounded-full bg-paper shadow"
+          animate={{ x: checked ? 16 : 0 }}
+          transition={{ type: 'spring', stiffness: 600, damping: 35 }}
+        />
+      </button>
+    </label>
   )
 }

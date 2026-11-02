@@ -339,6 +339,91 @@
       ],
       "answer": 4,
       "explanation": "O homem-sanduíche é uma figura que carrega anúncios; a metáfora sintetiza a transformação de Aristarco em propaganda. O encerramento retoma o ‘anúncio’ de seu retrato inicial e problematiza o vínculo entre educação, prestígio e autopromoção."
+    },
+    {
+      "id": "ateneu-21",
+      "book": "ateneu",
+      "topic": "Infância e imaginação",
+      "context": "“olhei triste os meus brinquedos, antigos já! os meus queridos pelotões de chumbo!” [...] “que eu pacificava por fim, com uma facilidade de Providência Divina, intervindo sabiamente, resolvendo as pendências pela concórdia promíscua das caixas de pau.”",
+      "page": "p. 23",
+      "stem": "A descrição dos jogos com os soldados de chumbo, mediada pelo narrador adulto, permite reconhecer que",
+      "options": [
+        "a guerra infantil documenta com fidelidade os conflitos políticos do Segundo Reinado, de modo que o brinquedo funciona sobretudo como registro histórico das disputas de fronteira do período.",
+        "a lembrança dos brinquedos expressa apenas nostalgia pela infância protegida, sem qualquer distanciamento irônico, já que o narrador adulto lamenta sinceramente a perda daquele universo doméstico.",
+        "o vocabulário grandiloquente aplicado ao brinquedo ironiza a onipotência imaginária da criança, que se atribuía poder quase divino sobre o mundo, ilusão que o internato virá desmentir.",
+        "o menino já demonstra, nos jogos domésticos, a vocação autoritária que reproduzirá no Ateneu, o que transforma a cena em prenúncio direto de sua futura atuação como líder entre os colegas.",
+        "a alusão à Providência Divina revela a formação religiosa rigorosa recebida em casa, que o narrador apresenta como fundamento moral capaz de protegê-lo das decepções do colégio."
+      ],
+      "answer": 2,
+      "explanation": "O narrador adulto descreve um jogo infantil com termos épicos e teológicos (‘ameaça tenebrosa ao equilíbrio do mundo’, ‘Providência Divina’), produzindo ironia. A desproporção expõe a fantasia de domínio que se desfará diante da ‘impressão rude do primeiro ensinamento’."
+    },
+    {
+      "id": "ateneu-22",
+      "book": "ateneu",
+      "topic": "Idealização e alegoria",
+      "context": "“meninos nus como nos frisos de Kaulbach, risonhos, com a ferramenta simbólica — psicologia pura do trabalho, modelada idealmente na candura do gesso e da inocência. Eram meus irmãos!” [...] “Oh! que não seria o colégio, tradução concreta da alegoria, ronda angélica de corações à porta de um templo”",
+      "page": "p. 28",
+      "stem": "A leitura que o menino faz dos relevos da antessala evidencia que sua expectativa sobre o colégio",
+      "options": [
+        "nasce da projeção de uma imagem artística idealizada sobre a instituição, tomando a alegoria como retrato literal da convivência escolar, expectativa que a narrativa retrospectiva sugere ingênua.",
+        "resulta de uma análise criteriosa da proposta pedagógica do Ateneu, já que os relevos explicitam com precisão os métodos de ensino que o menino conhecera nas visitas anteriores ao estabelecimento.",
+        "revela desconfiança precoce em relação ao discurso institucional, uma vez que o menino percebe no gesso a artificialidade de uma fraternidade que os colegas reais não seriam capazes de oferecer.",
+        "confirma-se integralmente no restante do romance, pois o colégio de fato se organiza como comunidade fraterna e inocente, conforme a alegoria das artes e das indústrias anunciava.",
+        "decorre principalmente da influência materna, que teria ensinado o menino a ver nas imagens religiosas o modelo de toda instituição educativa, independentemente da experiência concreta."
+      ],
+      "answer": 0,
+      "explanation": "O menino lê a decoração como promessa (‘tradução concreta da alegoria’) e se identifica com as figuras (‘Eram meus irmãos!’). As exclamações e o vocabulário sacralizante, filtrados pelo narrador maduro, marcam a distância entre a ilusão infantil e a experiência posterior."
+    },
+    {
+      "id": "ateneu-23",
+      "book": "ateneu",
+      "topic": "Espetáculo e artifício",
+      "context": "“não percebi a sensação de ermo tão acentuada em sítios montanhosos, que havia de notar depois. As galas do momento faziam sorrir a paisagem.” [...] “os vistosos panos, em meio da ramagem, fingiam flores colossais, numa caricatura extravagante de primavera”",
+      "page": "p. 28",
+      "stem": "A descrição do jardim na festa da educação física contribui para a construção do sentido do capítulo porque",
+      "options": [
+        "celebra a harmonia entre a natureza e a ação humana, apresentando a ornamentação como continuação espontânea da paisagem e prova da vocação acolhedora do espaço escolar.",
+        "elimina a percepção de melancolia do lugar, mostrando que a sensação de ermo era uma impressão falsa do narrador, desfeita definitivamente pela experiência da festa.",
+        "descreve com neutralidade documental a decoração do evento, sem marcas avaliativas, o que permite ao leitor formar livremente seu juízo sobre o colégio e seu diretor.",
+        "atribui a artificialidade da festa exclusivamente ao mau gosto do secretário do diretor, isentando Aristarco e a instituição da encenação montada para o público.",
+        "o verbo ‘fingiam’ e a ‘caricatura’ revelam a natureza encenada da alegria festiva, enquanto a menção ao ermo que ‘havia de notar depois’ inscreve a perspectiva retrospectiva que desmonta a aparência."
+      ],
+      "answer": 4,
+      "explanation": "A festa disfarça a paisagem sombria descrita antes: os panos ‘fingiam’ flores, numa ‘caricatura’ de primavera. A ressalva sobre o que o narrador ‘havia de notar depois’ superpõe à impressão do menino a consciência do adulto, reforçando a leitura do Ateneu como espetáculo."
+    },
+    {
+      "id": "ateneu-24",
+      "book": "ateneu",
+      "topic": "Imaginação e mito",
+      "context": "“As impressões recentes derrogavam o meu Aristarco; mas a hipérbole essencial do primitivo transmitia-se ao sucessor por um mistério de hereditariedade renitente.” [...] “fazendo aliança com Aristarco II contra Aristarco I, no reino da fantasia.”",
+      "page": "p. 35",
+      "stem": "A oposição entre “Aristarco I” e “Aristarco II” evidencia que a percepção do diretor pelo menino",
+      "options": [
+        "abandona por completo a imagem formada pelos livros elementares, substituída de imediato pela figura afetuosa e familiar que o diretor apresenta durante a visita.",
+        "resulta de um embate entre a figura imaginada na infância e a presença concreta do diretor, embate em que a nova imagem se modifica mas preserva o exagero divinizante da anterior.",
+        "distingue com clareza o homem real do pedagogo público, permitindo ao menino perceber, já nessa visita, o caráter publicitário da figura que o narrador adulto denunciará.",
+        "revela medo constante e paralisante do diretor, motivo pelo qual o menino evita qualquer contato com Aristarco e passa a desejar o retorno à escola do Caminho Novo.",
+        "organiza-se segundo uma sucessão dinástica real, pois o narrador informa que o diretor herdara o Ateneu de um antecessor homônimo, ao qual o menino o compara."
+      ],
+      "answer": 1,
+      "explanation": "‘Aristarco I’ é o ser mitológico imaginado a partir dos livros; ‘Aristarco II’, o homem de paletó de seda. A ‘hereditariedade renitente’ indica que a nova imagem herda a ‘hipérbole essencial’ da primeira, e a numeração régia ironiza a divinização infantil."
+    },
+    {
+      "id": "ateneu-25",
+      "book": "ateneu",
+      "topic": "Retórica da autoridade",
+      "context": "“Demais, o meu colégio é apenas maior que o lar doméstico. O amor não é precisamente o mesmo, mas os cuidados de vigilância são mais ativos.” [...] “Enveredando pelo tema querido do elogio próprio e do Ateneu, ninguém mais pôde falar...”",
+      "page": "p. 36",
+      "stem": "Considerando a abertura do capítulo e a sequência da cena, a fala de Aristarco sobre o lar doméstico",
+      "options": [
+        "confirma a tese inicial do narrador de que o colégio prolonga a ‘estufa de carinho’ familiar, razão pela qual a solidão do internato mencionada por D. Ema se revela infundada.",
+        "demonstra a sinceridade pedagógica do diretor, que reconhece com modéstia os limites afetivos da escola e renuncia a apresentar o Ateneu como substituto da família.",
+        "traduz uma concepção pedagógica plenamente moderna, pois a ênfase na vigilância antecipa as reformas que aboliriam o controle sobre os alunos em favor da autonomia infantil.",
+        "substitui o amor pela vigilância como valor institucional, contradizendo o consolo materno de D. Ema e logo convertendo-se em monólogo autocelebratório que silencia os interlocutores.",
+        "tem por objetivo principal tranquilizar o menino, que expressara diretamente ao diretor o temor de afastar-se da família, o que explica a interrupção da conversa com os pais."
+      ],
+      "answer": 3,
+      "explanation": "Aristarco admite que ‘o amor não é precisamente o mesmo’ e põe a vigilância em seu lugar, contrastando com a ‘estufa de carinho’ do lar evocada na abertura. A fala logo se desdobra em elogio próprio que impede os demais de falar, marca de sua retórica publicitária."
     }
   ],
   "flashcards": [
